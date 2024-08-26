@@ -1,0 +1,8002 @@
+[
+  {
+    "id": 1,
+    "name": "College 1",
+    "rating": "3.7",
+    "fees": 34457,
+    "userReview": "3.3",
+    "featured": false
+  },
+  {
+    "id": 2,
+    "name": "College 2",
+    "rating": "4.4",
+    "fees": 31417,
+    "userReview": "3.5",
+    "featured": false
+  },
+  {
+    "id": 3,
+    "name": "College 3",
+    "rating": "1.4",
+    "fees": 19622,
+    "userReview": "4.5",
+    "featured": false
+  },
+  {
+    "id": 4,
+    "name": "College 4",
+    "rating": "1.1",
+    "fees": 49480,
+    "userReview": "1.7",
+    "featured": true
+  },
+  {
+    "id": 5,
+    "name": "College 5",
+    "rating": "1.8",
+    "fees": 14102,
+    "userReview": "1.6",
+    "featured": false
+  },
+  {
+    "id": 6,
+    "name": "College 6",
+    "rating": "2.8",
+    "fees": 59572,
+    "userReview": "1.1",
+    "featured": true
+  },
+  {
+    "id": 7,
+    "name": "College 7",
+    "rating": "1.8",
+    "fees": 31734,
+    "userReview": "3.0",
+    "featured": true
+  },
+  {
+    "id": 8,
+    "name": "College 8",
+    "rating": "2.3",
+    "fees": 22076,
+    "userReview": "4.4",
+    "featured": true
+  },
+  {
+    "id": 9,
+    "name": "College 9",
+    "rating": "3.4",
+    "fees": 15383,
+    "userReview": "2.5",
+    "featured": true
+  },
+  {
+    "id": 10,
+    "name": "College 10",
+    "rating": "0.7",
+    "fees": 26404,
+    "userReview": "3.7",
+    "featured": true
+  },
+  {
+    "id": 11,
+    "name": "College 11",
+    "rating": "1.7",
+    "fees": 44980,
+    "userReview": "2.0",
+    "featured": true
+  },
+  {
+    "id": 12,
+    "name": "College 12",
+    "rating": "3.8",
+    "fees": 21825,
+    "userReview": "2.4",
+    "featured": true
+  },
+  {
+    "id": 13,
+    "name": "College 13",
+    "rating": "1.5",
+    "fees": 41905,
+    "userReview": "2.8",
+    "featured": false
+  },
+  {
+    "id": 14,
+    "name": "College 14",
+    "rating": "1.4",
+    "fees": 42388,
+    "userReview": "4.3",
+    "featured": false
+  },
+  {
+    "id": 15,
+    "name": "College 15",
+    "rating": "3.9",
+    "fees": 48824,
+    "userReview": "1.8",
+    "featured": true
+  },
+  {
+    "id": 16,
+    "name": "College 16",
+    "rating": "0.2",
+    "fees": 40739,
+    "userReview": "3.7",
+    "featured": false
+  },
+  {
+    "id": 17,
+    "name": "College 17",
+    "rating": "4.8",
+    "fees": 58600,
+    "userReview": "4.5",
+    "featured": false
+  },
+  {
+    "id": 18,
+    "name": "College 18",
+    "rating": "0.4",
+    "fees": 56555,
+    "userReview": "2.1",
+    "featured": false
+  },
+  {
+    "id": 19,
+    "name": "College 19",
+    "rating": "4.7",
+    "fees": 16043,
+    "userReview": "1.2",
+    "featured": false
+  },
+  {
+    "id": 20,
+    "name": "College 20",
+    "rating": "4.0",
+    "fees": 36067,
+    "userReview": "4.0",
+    "featured": true
+  },
+  {
+    "id": 21,
+    "name": "College 21",
+    "rating": "3.3",
+    "fees": 31529,
+    "userReview": "0.3",
+    "featured": true
+  },
+  {
+    "id": 22,
+    "name": "College 22",
+    "rating": "3.5",
+    "fees": 53754,
+    "userReview": "4.7",
+    "featured": true
+  },
+  {
+    "id": 23,
+    "name": "College 23",
+    "rating": "0.1",
+    "fees": 20055,
+    "userReview": "2.4",
+    "featured": true
+  },
+  {
+    "id": 24,
+    "name": "College 24",
+    "rating": "0.8",
+    "fees": 41847,
+    "userReview": "2.0",
+    "featured": true
+  },
+  {
+    "id": 25,
+    "name": "College 25",
+    "rating": "1.5",
+    "fees": 31754,
+    "userReview": "3.8",
+    "featured": false
+  },
+  {
+    "id": 26,
+    "name": "College 26",
+    "rating": "0.9",
+    "fees": 50609,
+    "userReview": "4.2",
+    "featured": true
+  },
+  {
+    "id": 27,
+    "name": "College 27",
+    "rating": "4.7",
+    "fees": 34588,
+    "userReview": "1.5",
+    "featured": false
+  },
+  {
+    "id": 28,
+    "name": "College 28",
+    "rating": "1.8",
+    "fees": 31188,
+    "userReview": "2.8",
+    "featured": true
+  },
+  {
+    "id": 29,
+    "name": "College 29",
+    "rating": "1.1",
+    "fees": 57304,
+    "userReview": "2.0",
+    "featured": false
+  },
+  {
+    "id": 30,
+    "name": "College 30",
+    "rating": "0.7",
+    "fees": 57804,
+    "userReview": "4.5",
+    "featured": false
+  },
+  {
+    "id": 31,
+    "name": "College 31",
+    "rating": "3.4",
+    "fees": 36705,
+    "userReview": "0.9",
+    "featured": false
+  },
+  {
+    "id": 32,
+    "name": "College 32",
+    "rating": "2.2",
+    "fees": 16274,
+    "userReview": "1.6",
+    "featured": false
+  },
+  {
+    "id": 33,
+    "name": "College 33",
+    "rating": "3.2",
+    "fees": 56427,
+    "userReview": "4.5",
+    "featured": false
+  },
+  {
+    "id": 34,
+    "name": "College 34",
+    "rating": "4.0",
+    "fees": 14965,
+    "userReview": "0.3",
+    "featured": true
+  },
+  {
+    "id": 35,
+    "name": "College 35",
+    "rating": "4.8",
+    "fees": 27507,
+    "userReview": "4.2",
+    "featured": false
+  },
+  {
+    "id": 36,
+    "name": "College 36",
+    "rating": "1.1",
+    "fees": 55563,
+    "userReview": "2.6",
+    "featured": true
+  },
+  {
+    "id": 37,
+    "name": "College 37",
+    "rating": "1.7",
+    "fees": 13082,
+    "userReview": "1.9",
+    "featured": false
+  },
+  {
+    "id": 38,
+    "name": "College 38",
+    "rating": "3.3",
+    "fees": 41138,
+    "userReview": "3.1",
+    "featured": true
+  },
+  {
+    "id": 39,
+    "name": "College 39",
+    "rating": "3.3",
+    "fees": 58680,
+    "userReview": "4.1",
+    "featured": true
+  },
+  {
+    "id": 40,
+    "name": "College 40",
+    "rating": "4.9",
+    "fees": 50791,
+    "userReview": "1.8",
+    "featured": false
+  },
+  {
+    "id": 41,
+    "name": "College 41",
+    "rating": "4.8",
+    "fees": 35118,
+    "userReview": "0.7",
+    "featured": false
+  },
+  {
+    "id": 42,
+    "name": "College 42",
+    "rating": "3.8",
+    "fees": 11804,
+    "userReview": "1.1",
+    "featured": true
+  },
+  {
+    "id": 43,
+    "name": "College 43",
+    "rating": "0.0",
+    "fees": 54670,
+    "userReview": "3.6",
+    "featured": true
+  },
+  {
+    "id": 44,
+    "name": "College 44",
+    "rating": "0.3",
+    "fees": 59932,
+    "userReview": "4.6",
+    "featured": false
+  },
+  {
+    "id": 45,
+    "name": "College 45",
+    "rating": "1.5",
+    "fees": 12896,
+    "userReview": "3.3",
+    "featured": false
+  },
+  {
+    "id": 46,
+    "name": "College 46",
+    "rating": "1.5",
+    "fees": 12913,
+    "userReview": "2.9",
+    "featured": true
+  },
+  {
+    "id": 47,
+    "name": "College 47",
+    "rating": "3.8",
+    "fees": 47094,
+    "userReview": "0.8",
+    "featured": false
+  },
+  {
+    "id": 48,
+    "name": "College 48",
+    "rating": "2.1",
+    "fees": 50557,
+    "userReview": "3.5",
+    "featured": false
+  },
+  {
+    "id": 49,
+    "name": "College 49",
+    "rating": "4.9",
+    "fees": 26804,
+    "userReview": "3.7",
+    "featured": false
+  },
+  {
+    "id": 50,
+    "name": "College 50",
+    "rating": "0.1",
+    "fees": 16783,
+    "userReview": "2.8",
+    "featured": true
+  },
+  {
+    "id": 51,
+    "name": "College 51",
+    "rating": "3.5",
+    "fees": 32189,
+    "userReview": "2.1",
+    "featured": false
+  },
+  {
+    "id": 52,
+    "name": "College 52",
+    "rating": "2.3",
+    "fees": 21188,
+    "userReview": "4.9",
+    "featured": true
+  },
+  {
+    "id": 53,
+    "name": "College 53",
+    "rating": "3.7",
+    "fees": 14126,
+    "userReview": "0.3",
+    "featured": true
+  },
+  {
+    "id": 54,
+    "name": "College 54",
+    "rating": "2.4",
+    "fees": 50774,
+    "userReview": "3.6",
+    "featured": false
+  },
+  {
+    "id": 55,
+    "name": "College 55",
+    "rating": "2.7",
+    "fees": 50614,
+    "userReview": "4.2",
+    "featured": false
+  },
+  {
+    "id": 56,
+    "name": "College 56",
+    "rating": "4.6",
+    "fees": 51327,
+    "userReview": "3.6",
+    "featured": false
+  },
+  {
+    "id": 57,
+    "name": "College 57",
+    "rating": "3.8",
+    "fees": 21749,
+    "userReview": "1.7",
+    "featured": false
+  },
+  {
+    "id": 58,
+    "name": "College 58",
+    "rating": "2.4",
+    "fees": 21342,
+    "userReview": "1.4",
+    "featured": true
+  },
+  {
+    "id": 59,
+    "name": "College 59",
+    "rating": "3.3",
+    "fees": 32510,
+    "userReview": "2.0",
+    "featured": true
+  },
+  {
+    "id": 60,
+    "name": "College 60",
+    "rating": "3.7",
+    "fees": 16985,
+    "userReview": "4.3",
+    "featured": true
+  },
+  {
+    "id": 61,
+    "name": "College 61",
+    "rating": "2.9",
+    "fees": 58472,
+    "userReview": "0.2",
+    "featured": false
+  },
+  {
+    "id": 62,
+    "name": "College 62",
+    "rating": "2.5",
+    "fees": 43994,
+    "userReview": "2.8",
+    "featured": true
+  },
+  {
+    "id": 63,
+    "name": "College 63",
+    "rating": "0.4",
+    "fees": 45031,
+    "userReview": "0.8",
+    "featured": false
+  },
+  {
+    "id": 64,
+    "name": "College 64",
+    "rating": "4.8",
+    "fees": 55753,
+    "userReview": "0.8",
+    "featured": false
+  },
+  {
+    "id": 65,
+    "name": "College 65",
+    "rating": "3.3",
+    "fees": 56512,
+    "userReview": "5.0",
+    "featured": false
+  },
+  {
+    "id": 66,
+    "name": "College 66",
+    "rating": "4.9",
+    "fees": 50941,
+    "userReview": "1.6",
+    "featured": true
+  },
+  {
+    "id": 67,
+    "name": "College 67",
+    "rating": "2.1",
+    "fees": 52970,
+    "userReview": "2.5",
+    "featured": true
+  },
+  {
+    "id": 68,
+    "name": "College 68",
+    "rating": "5.0",
+    "fees": 26687,
+    "userReview": "0.0",
+    "featured": true
+  },
+  {
+    "id": 69,
+    "name": "College 69",
+    "rating": "1.7",
+    "fees": 25652,
+    "userReview": "1.2",
+    "featured": true
+  },
+  {
+    "id": 70,
+    "name": "College 70",
+    "rating": "3.2",
+    "fees": 22952,
+    "userReview": "4.7",
+    "featured": true
+  },
+  {
+    "id": 71,
+    "name": "College 71",
+    "rating": "4.6",
+    "fees": 29798,
+    "userReview": "1.7",
+    "featured": false
+  },
+  {
+    "id": 72,
+    "name": "College 72",
+    "rating": "4.4",
+    "fees": 34675,
+    "userReview": "2.3",
+    "featured": true
+  },
+  {
+    "id": 73,
+    "name": "College 73",
+    "rating": "2.5",
+    "fees": 50028,
+    "userReview": "0.3",
+    "featured": true
+  },
+  {
+    "id": 74,
+    "name": "College 74",
+    "rating": "3.2",
+    "fees": 29091,
+    "userReview": "0.6",
+    "featured": true
+  },
+  {
+    "id": 75,
+    "name": "College 75",
+    "rating": "3.5",
+    "fees": 36432,
+    "userReview": "0.2",
+    "featured": true
+  },
+  {
+    "id": 76,
+    "name": "College 76",
+    "rating": "2.6",
+    "fees": 35956,
+    "userReview": "4.3",
+    "featured": true
+  },
+  {
+    "id": 77,
+    "name": "College 77",
+    "rating": "3.7",
+    "fees": 31760,
+    "userReview": "1.5",
+    "featured": false
+  },
+  {
+    "id": 78,
+    "name": "College 78",
+    "rating": "0.7",
+    "fees": 25903,
+    "userReview": "0.0",
+    "featured": false
+  },
+  {
+    "id": 79,
+    "name": "College 79",
+    "rating": "1.5",
+    "fees": 12816,
+    "userReview": "4.4",
+    "featured": true
+  },
+  {
+    "id": 80,
+    "name": "College 80",
+    "rating": "1.7",
+    "fees": 45282,
+    "userReview": "3.1",
+    "featured": false
+  },
+  {
+    "id": 81,
+    "name": "College 81",
+    "rating": "2.4",
+    "fees": 35579,
+    "userReview": "3.4",
+    "featured": true
+  },
+  {
+    "id": 82,
+    "name": "College 82",
+    "rating": "3.7",
+    "fees": 58125,
+    "userReview": "0.1",
+    "featured": false
+  },
+  {
+    "id": 83,
+    "name": "College 83",
+    "rating": "3.3",
+    "fees": 54816,
+    "userReview": "2.9",
+    "featured": true
+  },
+  {
+    "id": 84,
+    "name": "College 84",
+    "rating": "1.3",
+    "fees": 52355,
+    "userReview": "1.6",
+    "featured": false
+  },
+  {
+    "id": 85,
+    "name": "College 85",
+    "rating": "0.5",
+    "fees": 49695,
+    "userReview": "2.3",
+    "featured": true
+  },
+  {
+    "id": 86,
+    "name": "College 86",
+    "rating": "4.6",
+    "fees": 57545,
+    "userReview": "0.6",
+    "featured": false
+  },
+  {
+    "id": 87,
+    "name": "College 87",
+    "rating": "4.6",
+    "fees": 34628,
+    "userReview": "3.3",
+    "featured": true
+  },
+  {
+    "id": 88,
+    "name": "College 88",
+    "rating": "4.4",
+    "fees": 23755,
+    "userReview": "1.9",
+    "featured": false
+  },
+  {
+    "id": 89,
+    "name": "College 89",
+    "rating": "4.9",
+    "fees": 17264,
+    "userReview": "2.6",
+    "featured": false
+  },
+  {
+    "id": 90,
+    "name": "College 90",
+    "rating": "2.6",
+    "fees": 46924,
+    "userReview": "2.6",
+    "featured": false
+  },
+  {
+    "id": 91,
+    "name": "College 91",
+    "rating": "1.8",
+    "fees": 41257,
+    "userReview": "1.9",
+    "featured": false
+  },
+  {
+    "id": 92,
+    "name": "College 92",
+    "rating": "2.1",
+    "fees": 47599,
+    "userReview": "2.1",
+    "featured": false
+  },
+  {
+    "id": 93,
+    "name": "College 93",
+    "rating": "2.9",
+    "fees": 42727,
+    "userReview": "0.2",
+    "featured": true
+  },
+  {
+    "id": 94,
+    "name": "College 94",
+    "rating": "4.4",
+    "fees": 55468,
+    "userReview": "2.0",
+    "featured": false
+  },
+  {
+    "id": 95,
+    "name": "College 95",
+    "rating": "2.5",
+    "fees": 58074,
+    "userReview": "1.4",
+    "featured": false
+  },
+  {
+    "id": 96,
+    "name": "College 96",
+    "rating": "2.5",
+    "fees": 35681,
+    "userReview": "0.4",
+    "featured": false
+  },
+  {
+    "id": 97,
+    "name": "College 97",
+    "rating": "3.7",
+    "fees": 41162,
+    "userReview": "3.0",
+    "featured": true
+  },
+  {
+    "id": 98,
+    "name": "College 98",
+    "rating": "5.0",
+    "fees": 37518,
+    "userReview": "4.5",
+    "featured": false
+  },
+  {
+    "id": 99,
+    "name": "College 99",
+    "rating": "3.1",
+    "fees": 31674,
+    "userReview": "1.2",
+    "featured": true
+  },
+  {
+    "id": 100,
+    "name": "College 100",
+    "rating": "4.7",
+    "fees": 51566,
+    "userReview": "2.1",
+    "featured": false
+  },
+  {
+    "id": 101,
+    "name": "College 101",
+    "rating": "4.9",
+    "fees": 25770,
+    "userReview": "1.0",
+    "featured": true
+  },
+  {
+    "id": 102,
+    "name": "College 102",
+    "rating": "3.1",
+    "fees": 14052,
+    "userReview": "1.9",
+    "featured": false
+  },
+  {
+    "id": 103,
+    "name": "College 103",
+    "rating": "1.9",
+    "fees": 44055,
+    "userReview": "1.5",
+    "featured": true
+  },
+  {
+    "id": 104,
+    "name": "College 104",
+    "rating": "0.1",
+    "fees": 25211,
+    "userReview": "2.4",
+    "featured": false
+  },
+  {
+    "id": 105,
+    "name": "College 105",
+    "rating": "1.4",
+    "fees": 52621,
+    "userReview": "1.3",
+    "featured": false
+  },
+  {
+    "id": 106,
+    "name": "College 106",
+    "rating": "1.5",
+    "fees": 58352,
+    "userReview": "0.2",
+    "featured": true
+  },
+  {
+    "id": 107,
+    "name": "College 107",
+    "rating": "0.7",
+    "fees": 17709,
+    "userReview": "0.5",
+    "featured": false
+  },
+  {
+    "id": 108,
+    "name": "College 108",
+    "rating": "2.5",
+    "fees": 12486,
+    "userReview": "2.1",
+    "featured": true
+  },
+  {
+    "id": 109,
+    "name": "College 109",
+    "rating": "0.0",
+    "fees": 28279,
+    "userReview": "2.7",
+    "featured": false
+  },
+  {
+    "id": 110,
+    "name": "College 110",
+    "rating": "0.9",
+    "fees": 17100,
+    "userReview": "2.2",
+    "featured": false
+  },
+  {
+    "id": 111,
+    "name": "College 111",
+    "rating": "4.3",
+    "fees": 10030,
+    "userReview": "0.4",
+    "featured": true
+  },
+  {
+    "id": 112,
+    "name": "College 112",
+    "rating": "1.5",
+    "fees": 22067,
+    "userReview": "2.3",
+    "featured": true
+  },
+  {
+    "id": 113,
+    "name": "College 113",
+    "rating": "3.0",
+    "fees": 36131,
+    "userReview": "1.0",
+    "featured": false
+  },
+  {
+    "id": 114,
+    "name": "College 114",
+    "rating": "1.0",
+    "fees": 47136,
+    "userReview": "1.0",
+    "featured": false
+  },
+  {
+    "id": 115,
+    "name": "College 115",
+    "rating": "1.4",
+    "fees": 35714,
+    "userReview": "2.2",
+    "featured": true
+  },
+  {
+    "id": 116,
+    "name": "College 116",
+    "rating": "4.0",
+    "fees": 35721,
+    "userReview": "0.7",
+    "featured": false
+  },
+  {
+    "id": 117,
+    "name": "College 117",
+    "rating": "1.8",
+    "fees": 57957,
+    "userReview": "4.4",
+    "featured": false
+  },
+  {
+    "id": 118,
+    "name": "College 118",
+    "rating": "4.0",
+    "fees": 49561,
+    "userReview": "0.1",
+    "featured": true
+  },
+  {
+    "id": 119,
+    "name": "College 119",
+    "rating": "2.3",
+    "fees": 19328,
+    "userReview": "4.9",
+    "featured": false
+  },
+  {
+    "id": 120,
+    "name": "College 120",
+    "rating": "0.7",
+    "fees": 23066,
+    "userReview": "2.6",
+    "featured": true
+  },
+  {
+    "id": 121,
+    "name": "College 121",
+    "rating": "0.4",
+    "fees": 42078,
+    "userReview": "2.6",
+    "featured": true
+  },
+  {
+    "id": 122,
+    "name": "College 122",
+    "rating": "2.8",
+    "fees": 22994,
+    "userReview": "2.3",
+    "featured": true
+  },
+  {
+    "id": 123,
+    "name": "College 123",
+    "rating": "3.4",
+    "fees": 58486,
+    "userReview": "0.5",
+    "featured": false
+  },
+  {
+    "id": 124,
+    "name": "College 124",
+    "rating": "2.4",
+    "fees": 38273,
+    "userReview": "0.3",
+    "featured": true
+  },
+  {
+    "id": 125,
+    "name": "College 125",
+    "rating": "0.7",
+    "fees": 36663,
+    "userReview": "1.4",
+    "featured": false
+  },
+  {
+    "id": 126,
+    "name": "College 126",
+    "rating": "3.7",
+    "fees": 20758,
+    "userReview": "2.6",
+    "featured": false
+  },
+  {
+    "id": 127,
+    "name": "College 127",
+    "rating": "1.7",
+    "fees": 27613,
+    "userReview": "5.0",
+    "featured": false
+  },
+  {
+    "id": 128,
+    "name": "College 128",
+    "rating": "4.9",
+    "fees": 14353,
+    "userReview": "2.4",
+    "featured": true
+  },
+  {
+    "id": 129,
+    "name": "College 129",
+    "rating": "2.5",
+    "fees": 38458,
+    "userReview": "3.8",
+    "featured": true
+  },
+  {
+    "id": 130,
+    "name": "College 130",
+    "rating": "4.2",
+    "fees": 37255,
+    "userReview": "0.8",
+    "featured": true
+  },
+  {
+    "id": 131,
+    "name": "College 131",
+    "rating": "1.7",
+    "fees": 15657,
+    "userReview": "1.2",
+    "featured": false
+  },
+  {
+    "id": 132,
+    "name": "College 132",
+    "rating": "2.1",
+    "fees": 33445,
+    "userReview": "4.7",
+    "featured": true
+  },
+  {
+    "id": 133,
+    "name": "College 133",
+    "rating": "2.8",
+    "fees": 13751,
+    "userReview": "2.1",
+    "featured": false
+  },
+  {
+    "id": 134,
+    "name": "College 134",
+    "rating": "0.5",
+    "fees": 17393,
+    "userReview": "0.7",
+    "featured": true
+  },
+  {
+    "id": 135,
+    "name": "College 135",
+    "rating": "2.4",
+    "fees": 25471,
+    "userReview": "2.7",
+    "featured": false
+  },
+  {
+    "id": 136,
+    "name": "College 136",
+    "rating": "0.7",
+    "fees": 43884,
+    "userReview": "2.0",
+    "featured": true
+  },
+  {
+    "id": 137,
+    "name": "College 137",
+    "rating": "3.2",
+    "fees": 11782,
+    "userReview": "2.2",
+    "featured": true
+  },
+  {
+    "id": 138,
+    "name": "College 138",
+    "rating": "3.4",
+    "fees": 15603,
+    "userReview": "1.9",
+    "featured": false
+  },
+  {
+    "id": 139,
+    "name": "College 139",
+    "rating": "4.7",
+    "fees": 37738,
+    "userReview": "2.0",
+    "featured": true
+  },
+  {
+    "id": 140,
+    "name": "College 140",
+    "rating": "0.5",
+    "fees": 56488,
+    "userReview": "0.6",
+    "featured": false
+  },
+  {
+    "id": 141,
+    "name": "College 141",
+    "rating": "4.5",
+    "fees": 27171,
+    "userReview": "0.6",
+    "featured": true
+  },
+  {
+    "id": 142,
+    "name": "College 142",
+    "rating": "4.0",
+    "fees": 53376,
+    "userReview": "2.6",
+    "featured": false
+  },
+  {
+    "id": 143,
+    "name": "College 143",
+    "rating": "3.4",
+    "fees": 56000,
+    "userReview": "4.3",
+    "featured": false
+  },
+  {
+    "id": 144,
+    "name": "College 144",
+    "rating": "0.7",
+    "fees": 57194,
+    "userReview": "1.3",
+    "featured": false
+  },
+  {
+    "id": 145,
+    "name": "College 145",
+    "rating": "0.7",
+    "fees": 45286,
+    "userReview": "3.3",
+    "featured": false
+  },
+  {
+    "id": 146,
+    "name": "College 146",
+    "rating": "2.7",
+    "fees": 10218,
+    "userReview": "3.5",
+    "featured": false
+  },
+  {
+    "id": 147,
+    "name": "College 147",
+    "rating": "2.3",
+    "fees": 23116,
+    "userReview": "1.2",
+    "featured": false
+  },
+  {
+    "id": 148,
+    "name": "College 148",
+    "rating": "4.4",
+    "fees": 30169,
+    "userReview": "2.7",
+    "featured": false
+  },
+  {
+    "id": 149,
+    "name": "College 149",
+    "rating": "4.3",
+    "fees": 53872,
+    "userReview": "2.2",
+    "featured": true
+  },
+  {
+    "id": 150,
+    "name": "College 150",
+    "rating": "3.7",
+    "fees": 56812,
+    "userReview": "3.3",
+    "featured": false
+  },
+  {
+    "id": 151,
+    "name": "College 151",
+    "rating": "1.4",
+    "fees": 21441,
+    "userReview": "2.9",
+    "featured": false
+  },
+  {
+    "id": 152,
+    "name": "College 152",
+    "rating": "3.9",
+    "fees": 46985,
+    "userReview": "3.6",
+    "featured": false
+  },
+  {
+    "id": 153,
+    "name": "College 153",
+    "rating": "1.9",
+    "fees": 31718,
+    "userReview": "1.6",
+    "featured": false
+  },
+  {
+    "id": 154,
+    "name": "College 154",
+    "rating": "1.2",
+    "fees": 26798,
+    "userReview": "0.1",
+    "featured": true
+  },
+  {
+    "id": 155,
+    "name": "College 155",
+    "rating": "2.5",
+    "fees": 31514,
+    "userReview": "3.0",
+    "featured": false
+  },
+  {
+    "id": 156,
+    "name": "College 156",
+    "rating": "2.5",
+    "fees": 49924,
+    "userReview": "2.0",
+    "featured": false
+  },
+  {
+    "id": 157,
+    "name": "College 157",
+    "rating": "2.0",
+    "fees": 18094,
+    "userReview": "2.0",
+    "featured": false
+  },
+  {
+    "id": 158,
+    "name": "College 158",
+    "rating": "2.2",
+    "fees": 12880,
+    "userReview": "2.4",
+    "featured": true
+  },
+  {
+    "id": 159,
+    "name": "College 159",
+    "rating": "3.7",
+    "fees": 32116,
+    "userReview": "2.1",
+    "featured": false
+  },
+  {
+    "id": 160,
+    "name": "College 160",
+    "rating": "1.1",
+    "fees": 46408,
+    "userReview": "1.0",
+    "featured": false
+  },
+  {
+    "id": 161,
+    "name": "College 161",
+    "rating": "3.9",
+    "fees": 28910,
+    "userReview": "2.0",
+    "featured": false
+  },
+  {
+    "id": 162,
+    "name": "College 162",
+    "rating": "2.7",
+    "fees": 27946,
+    "userReview": "4.1",
+    "featured": false
+  },
+  {
+    "id": 163,
+    "name": "College 163",
+    "rating": "2.8",
+    "fees": 46875,
+    "userReview": "3.8",
+    "featured": true
+  },
+  {
+    "id": 164,
+    "name": "College 164",
+    "rating": "4.7",
+    "fees": 10895,
+    "userReview": "3.2",
+    "featured": true
+  },
+  {
+    "id": 165,
+    "name": "College 165",
+    "rating": "3.1",
+    "fees": 48456,
+    "userReview": "1.6",
+    "featured": true
+  },
+  {
+    "id": 166,
+    "name": "College 166",
+    "rating": "1.7",
+    "fees": 29382,
+    "userReview": "0.8",
+    "featured": false
+  },
+  {
+    "id": 167,
+    "name": "College 167",
+    "rating": "3.8",
+    "fees": 19424,
+    "userReview": "3.6",
+    "featured": false
+  },
+  {
+    "id": 168,
+    "name": "College 168",
+    "rating": "1.9",
+    "fees": 45601,
+    "userReview": "2.1",
+    "featured": true
+  },
+  {
+    "id": 169,
+    "name": "College 169",
+    "rating": "2.5",
+    "fees": 12283,
+    "userReview": "3.0",
+    "featured": true
+  },
+  {
+    "id": 170,
+    "name": "College 170",
+    "rating": "0.1",
+    "fees": 38725,
+    "userReview": "0.3",
+    "featured": false
+  },
+  {
+    "id": 171,
+    "name": "College 171",
+    "rating": "4.2",
+    "fees": 23927,
+    "userReview": "0.3",
+    "featured": true
+  },
+  {
+    "id": 172,
+    "name": "College 172",
+    "rating": "2.6",
+    "fees": 19571,
+    "userReview": "5.0",
+    "featured": false
+  },
+  {
+    "id": 173,
+    "name": "College 173",
+    "rating": "2.6",
+    "fees": 18438,
+    "userReview": "4.0",
+    "featured": false
+  },
+  {
+    "id": 174,
+    "name": "College 174",
+    "rating": "1.6",
+    "fees": 28534,
+    "userReview": "2.1",
+    "featured": false
+  },
+  {
+    "id": 175,
+    "name": "College 175",
+    "rating": "1.2",
+    "fees": 35917,
+    "userReview": "2.1",
+    "featured": true
+  },
+  {
+    "id": 176,
+    "name": "College 176",
+    "rating": "3.3",
+    "fees": 47665,
+    "userReview": "4.2",
+    "featured": false
+  },
+  {
+    "id": 177,
+    "name": "College 177",
+    "rating": "0.2",
+    "fees": 50094,
+    "userReview": "3.9",
+    "featured": false
+  },
+  {
+    "id": 178,
+    "name": "College 178",
+    "rating": "4.8",
+    "fees": 39766,
+    "userReview": "2.8",
+    "featured": true
+  },
+  {
+    "id": 179,
+    "name": "College 179",
+    "rating": "3.1",
+    "fees": 20264,
+    "userReview": "4.5",
+    "featured": true
+  },
+  {
+    "id": 180,
+    "name": "College 180",
+    "rating": "2.8",
+    "fees": 16237,
+    "userReview": "4.1",
+    "featured": false
+  },
+  {
+    "id": 181,
+    "name": "College 181",
+    "rating": "1.4",
+    "fees": 16272,
+    "userReview": "0.9",
+    "featured": false
+  },
+  {
+    "id": 182,
+    "name": "College 182",
+    "rating": "0.6",
+    "fees": 55757,
+    "userReview": "4.7",
+    "featured": true
+  },
+  {
+    "id": 183,
+    "name": "College 183",
+    "rating": "4.4",
+    "fees": 39895,
+    "userReview": "0.6",
+    "featured": false
+  },
+  {
+    "id": 184,
+    "name": "College 184",
+    "rating": "0.8",
+    "fees": 33392,
+    "userReview": "2.7",
+    "featured": true
+  },
+  {
+    "id": 185,
+    "name": "College 185",
+    "rating": "2.1",
+    "fees": 25881,
+    "userReview": "1.3",
+    "featured": true
+  },
+  {
+    "id": 186,
+    "name": "College 186",
+    "rating": "3.1",
+    "fees": 19375,
+    "userReview": "4.8",
+    "featured": true
+  },
+  {
+    "id": 187,
+    "name": "College 187",
+    "rating": "4.5",
+    "fees": 17067,
+    "userReview": "4.4",
+    "featured": true
+  },
+  {
+    "id": 188,
+    "name": "College 188",
+    "rating": "1.5",
+    "fees": 42697,
+    "userReview": "2.6",
+    "featured": true
+  },
+  {
+    "id": 189,
+    "name": "College 189",
+    "rating": "0.1",
+    "fees": 49035,
+    "userReview": "0.0",
+    "featured": true
+  },
+  {
+    "id": 190,
+    "name": "College 190",
+    "rating": "4.6",
+    "fees": 39816,
+    "userReview": "4.0",
+    "featured": false
+  },
+  {
+    "id": 191,
+    "name": "College 191",
+    "rating": "1.3",
+    "fees": 20380,
+    "userReview": "0.5",
+    "featured": false
+  },
+  {
+    "id": 192,
+    "name": "College 192",
+    "rating": "4.6",
+    "fees": 16524,
+    "userReview": "1.1",
+    "featured": true
+  },
+  {
+    "id": 193,
+    "name": "College 193",
+    "rating": "4.2",
+    "fees": 25852,
+    "userReview": "1.8",
+    "featured": true
+  },
+  {
+    "id": 194,
+    "name": "College 194",
+    "rating": "3.8",
+    "fees": 31872,
+    "userReview": "0.7",
+    "featured": true
+  },
+  {
+    "id": 195,
+    "name": "College 195",
+    "rating": "0.1",
+    "fees": 46828,
+    "userReview": "1.2",
+    "featured": false
+  },
+  {
+    "id": 196,
+    "name": "College 196",
+    "rating": "0.8",
+    "fees": 45325,
+    "userReview": "1.8",
+    "featured": true
+  },
+  {
+    "id": 197,
+    "name": "College 197",
+    "rating": "1.9",
+    "fees": 22467,
+    "userReview": "0.5",
+    "featured": false
+  },
+  {
+    "id": 198,
+    "name": "College 198",
+    "rating": "1.6",
+    "fees": 45192,
+    "userReview": "4.5",
+    "featured": false
+  },
+  {
+    "id": 199,
+    "name": "College 199",
+    "rating": "3.7",
+    "fees": 27262,
+    "userReview": "1.9",
+    "featured": false
+  },
+  {
+    "id": 200,
+    "name": "College 200",
+    "rating": "3.0",
+    "fees": 47804,
+    "userReview": "2.1",
+    "featured": true
+  },
+  {
+    "id": 201,
+    "name": "College 201",
+    "rating": "0.4",
+    "fees": 33111,
+    "userReview": "2.3",
+    "featured": false
+  },
+  {
+    "id": 202,
+    "name": "College 202",
+    "rating": "0.4",
+    "fees": 40859,
+    "userReview": "2.8",
+    "featured": true
+  },
+  {
+    "id": 203,
+    "name": "College 203",
+    "rating": "3.5",
+    "fees": 27328,
+    "userReview": "1.0",
+    "featured": true
+  },
+  {
+    "id": 204,
+    "name": "College 204",
+    "rating": "0.9",
+    "fees": 28783,
+    "userReview": "1.0",
+    "featured": true
+  },
+  {
+    "id": 205,
+    "name": "College 205",
+    "rating": "2.9",
+    "fees": 34808,
+    "userReview": "0.4",
+    "featured": false
+  },
+  {
+    "id": 206,
+    "name": "College 206",
+    "rating": "1.2",
+    "fees": 34616,
+    "userReview": "2.5",
+    "featured": true
+  },
+  {
+    "id": 207,
+    "name": "College 207",
+    "rating": "1.5",
+    "fees": 31460,
+    "userReview": "1.8",
+    "featured": false
+  },
+  {
+    "id": 208,
+    "name": "College 208",
+    "rating": "4.8",
+    "fees": 30125,
+    "userReview": "0.4",
+    "featured": true
+  },
+  {
+    "id": 209,
+    "name": "College 209",
+    "rating": "0.9",
+    "fees": 36855,
+    "userReview": "4.3",
+    "featured": true
+  },
+  {
+    "id": 210,
+    "name": "College 210",
+    "rating": "1.1",
+    "fees": 15082,
+    "userReview": "4.3",
+    "featured": false
+  },
+  {
+    "id": 211,
+    "name": "College 211",
+    "rating": "4.6",
+    "fees": 49028,
+    "userReview": "0.1",
+    "featured": false
+  },
+  {
+    "id": 212,
+    "name": "College 212",
+    "rating": "3.8",
+    "fees": 56312,
+    "userReview": "3.3",
+    "featured": false
+  },
+  {
+    "id": 213,
+    "name": "College 213",
+    "rating": "4.5",
+    "fees": 17949,
+    "userReview": "0.4",
+    "featured": true
+  },
+  {
+    "id": 214,
+    "name": "College 214",
+    "rating": "0.6",
+    "fees": 22215,
+    "userReview": "3.0",
+    "featured": true
+  },
+  {
+    "id": 215,
+    "name": "College 215",
+    "rating": "1.2",
+    "fees": 58079,
+    "userReview": "1.1",
+    "featured": true
+  },
+  {
+    "id": 216,
+    "name": "College 216",
+    "rating": "2.3",
+    "fees": 30227,
+    "userReview": "3.9",
+    "featured": true
+  },
+  {
+    "id": 217,
+    "name": "College 217",
+    "rating": "2.0",
+    "fees": 36743,
+    "userReview": "3.2",
+    "featured": false
+  },
+  {
+    "id": 218,
+    "name": "College 218",
+    "rating": "0.7",
+    "fees": 45486,
+    "userReview": "4.5",
+    "featured": false
+  },
+  {
+    "id": 219,
+    "name": "College 219",
+    "rating": "1.7",
+    "fees": 49686,
+    "userReview": "4.4",
+    "featured": false
+  },
+  {
+    "id": 220,
+    "name": "College 220",
+    "rating": "2.9",
+    "fees": 39599,
+    "userReview": "4.4",
+    "featured": false
+  },
+  {
+    "id": 221,
+    "name": "College 221",
+    "rating": "3.3",
+    "fees": 42018,
+    "userReview": "0.2",
+    "featured": true
+  },
+  {
+    "id": 222,
+    "name": "College 222",
+    "rating": "1.4",
+    "fees": 41018,
+    "userReview": "2.0",
+    "featured": true
+  },
+  {
+    "id": 223,
+    "name": "College 223",
+    "rating": "0.3",
+    "fees": 18638,
+    "userReview": "0.5",
+    "featured": false
+  },
+  {
+    "id": 224,
+    "name": "College 224",
+    "rating": "4.4",
+    "fees": 32998,
+    "userReview": "4.9",
+    "featured": true
+  },
+  {
+    "id": 225,
+    "name": "College 225",
+    "rating": "3.9",
+    "fees": 51556,
+    "userReview": "3.1",
+    "featured": false
+  },
+  {
+    "id": 226,
+    "name": "College 226",
+    "rating": "3.1",
+    "fees": 10617,
+    "userReview": "1.7",
+    "featured": false
+  },
+  {
+    "id": 227,
+    "name": "College 227",
+    "rating": "2.9",
+    "fees": 12056,
+    "userReview": "2.1",
+    "featured": true
+  },
+  {
+    "id": 228,
+    "name": "College 228",
+    "rating": "0.2",
+    "fees": 41512,
+    "userReview": "4.5",
+    "featured": true
+  },
+  {
+    "id": 229,
+    "name": "College 229",
+    "rating": "4.5",
+    "fees": 21599,
+    "userReview": "4.5",
+    "featured": true
+  },
+  {
+    "id": 230,
+    "name": "College 230",
+    "rating": "4.8",
+    "fees": 59009,
+    "userReview": "1.9",
+    "featured": true
+  },
+  {
+    "id": 231,
+    "name": "College 231",
+    "rating": "0.2",
+    "fees": 30634,
+    "userReview": "0.5",
+    "featured": false
+  },
+  {
+    "id": 232,
+    "name": "College 232",
+    "rating": "2.1",
+    "fees": 37021,
+    "userReview": "3.0",
+    "featured": false
+  },
+  {
+    "id": 233,
+    "name": "College 233",
+    "rating": "1.6",
+    "fees": 40534,
+    "userReview": "1.1",
+    "featured": true
+  },
+  {
+    "id": 234,
+    "name": "College 234",
+    "rating": "4.0",
+    "fees": 25885,
+    "userReview": "2.5",
+    "featured": true
+  },
+  {
+    "id": 235,
+    "name": "College 235",
+    "rating": "4.7",
+    "fees": 29672,
+    "userReview": "4.0",
+    "featured": true
+  },
+  {
+    "id": 236,
+    "name": "College 236",
+    "rating": "2.3",
+    "fees": 45036,
+    "userReview": "0.1",
+    "featured": true
+  },
+  {
+    "id": 237,
+    "name": "College 237",
+    "rating": "4.1",
+    "fees": 49603,
+    "userReview": "3.8",
+    "featured": false
+  },
+  {
+    "id": 238,
+    "name": "College 238",
+    "rating": "4.8",
+    "fees": 36977,
+    "userReview": "3.7",
+    "featured": false
+  },
+  {
+    "id": 239,
+    "name": "College 239",
+    "rating": "4.8",
+    "fees": 58933,
+    "userReview": "0.1",
+    "featured": true
+  },
+  {
+    "id": 240,
+    "name": "College 240",
+    "rating": "3.3",
+    "fees": 32660,
+    "userReview": "2.7",
+    "featured": true
+  },
+  {
+    "id": 241,
+    "name": "College 241",
+    "rating": "3.6",
+    "fees": 55087,
+    "userReview": "1.6",
+    "featured": true
+  },
+  {
+    "id": 242,
+    "name": "College 242",
+    "rating": "0.6",
+    "fees": 47002,
+    "userReview": "1.2",
+    "featured": false
+  },
+  {
+    "id": 243,
+    "name": "College 243",
+    "rating": "3.7",
+    "fees": 34694,
+    "userReview": "0.2",
+    "featured": true
+  },
+  {
+    "id": 244,
+    "name": "College 244",
+    "rating": "1.5",
+    "fees": 45863,
+    "userReview": "5.0",
+    "featured": true
+  },
+  {
+    "id": 245,
+    "name": "College 245",
+    "rating": "1.0",
+    "fees": 16553,
+    "userReview": "4.3",
+    "featured": false
+  },
+  {
+    "id": 246,
+    "name": "College 246",
+    "rating": "2.7",
+    "fees": 33040,
+    "userReview": "3.4",
+    "featured": false
+  },
+  {
+    "id": 247,
+    "name": "College 247",
+    "rating": "2.7",
+    "fees": 21456,
+    "userReview": "3.1",
+    "featured": true
+  },
+  {
+    "id": 248,
+    "name": "College 248",
+    "rating": "3.1",
+    "fees": 16016,
+    "userReview": "2.3",
+    "featured": true
+  },
+  {
+    "id": 249,
+    "name": "College 249",
+    "rating": "4.3",
+    "fees": 56697,
+    "userReview": "2.8",
+    "featured": false
+  },
+  {
+    "id": 250,
+    "name": "College 250",
+    "rating": "3.8",
+    "fees": 29382,
+    "userReview": "2.8",
+    "featured": false
+  },
+  {
+    "id": 251,
+    "name": "College 251",
+    "rating": "0.4",
+    "fees": 50422,
+    "userReview": "1.1",
+    "featured": false
+  },
+  {
+    "id": 252,
+    "name": "College 252",
+    "rating": "1.3",
+    "fees": 49989,
+    "userReview": "3.4",
+    "featured": true
+  },
+  {
+    "id": 253,
+    "name": "College 253",
+    "rating": "1.1",
+    "fees": 21941,
+    "userReview": "4.2",
+    "featured": false
+  },
+  {
+    "id": 254,
+    "name": "College 254",
+    "rating": "4.7",
+    "fees": 21762,
+    "userReview": "1.9",
+    "featured": false
+  },
+  {
+    "id": 255,
+    "name": "College 255",
+    "rating": "0.3",
+    "fees": 45819,
+    "userReview": "4.5",
+    "featured": true
+  },
+  {
+    "id": 256,
+    "name": "College 256",
+    "rating": "2.0",
+    "fees": 40366,
+    "userReview": "2.5",
+    "featured": true
+  },
+  {
+    "id": 257,
+    "name": "College 257",
+    "rating": "3.1",
+    "fees": 42242,
+    "userReview": "4.8",
+    "featured": true
+  },
+  {
+    "id": 258,
+    "name": "College 258",
+    "rating": "2.0",
+    "fees": 42372,
+    "userReview": "0.5",
+    "featured": false
+  },
+  {
+    "id": 259,
+    "name": "College 259",
+    "rating": "4.2",
+    "fees": 10492,
+    "userReview": "0.9",
+    "featured": true
+  },
+  {
+    "id": 260,
+    "name": "College 260",
+    "rating": "1.1",
+    "fees": 59023,
+    "userReview": "4.6",
+    "featured": false
+  },
+  {
+    "id": 261,
+    "name": "College 261",
+    "rating": "2.1",
+    "fees": 52665,
+    "userReview": "1.0",
+    "featured": false
+  },
+  {
+    "id": 262,
+    "name": "College 262",
+    "rating": "0.7",
+    "fees": 12633,
+    "userReview": "3.3",
+    "featured": false
+  },
+  {
+    "id": 263,
+    "name": "College 263",
+    "rating": "2.4",
+    "fees": 33773,
+    "userReview": "2.0",
+    "featured": true
+  },
+  {
+    "id": 264,
+    "name": "College 264",
+    "rating": "4.3",
+    "fees": 42778,
+    "userReview": "4.2",
+    "featured": true
+  },
+  {
+    "id": 265,
+    "name": "College 265",
+    "rating": "4.9",
+    "fees": 48574,
+    "userReview": "4.9",
+    "featured": true
+  },
+  {
+    "id": 266,
+    "name": "College 266",
+    "rating": "3.0",
+    "fees": 39553,
+    "userReview": "2.0",
+    "featured": true
+  },
+  {
+    "id": 267,
+    "name": "College 267",
+    "rating": "4.5",
+    "fees": 18984,
+    "userReview": "4.9",
+    "featured": false
+  },
+  {
+    "id": 268,
+    "name": "College 268",
+    "rating": "4.2",
+    "fees": 32727,
+    "userReview": "4.1",
+    "featured": false
+  },
+  {
+    "id": 269,
+    "name": "College 269",
+    "rating": "4.6",
+    "fees": 32773,
+    "userReview": "1.1",
+    "featured": false
+  },
+  {
+    "id": 270,
+    "name": "College 270",
+    "rating": "0.7",
+    "fees": 30718,
+    "userReview": "1.4",
+    "featured": true
+  },
+  {
+    "id": 271,
+    "name": "College 271",
+    "rating": "1.3",
+    "fees": 31930,
+    "userReview": "4.3",
+    "featured": false
+  },
+  {
+    "id": 272,
+    "name": "College 272",
+    "rating": "3.2",
+    "fees": 23048,
+    "userReview": "1.6",
+    "featured": false
+  },
+  {
+    "id": 273,
+    "name": "College 273",
+    "rating": "4.2",
+    "fees": 32572,
+    "userReview": "0.3",
+    "featured": false
+  },
+  {
+    "id": 274,
+    "name": "College 274",
+    "rating": "2.2",
+    "fees": 57509,
+    "userReview": "1.1",
+    "featured": true
+  },
+  {
+    "id": 275,
+    "name": "College 275",
+    "rating": "5.0",
+    "fees": 57543,
+    "userReview": "0.9",
+    "featured": false
+  },
+  {
+    "id": 276,
+    "name": "College 276",
+    "rating": "1.1",
+    "fees": 25923,
+    "userReview": "2.7",
+    "featured": false
+  },
+  {
+    "id": 277,
+    "name": "College 277",
+    "rating": "1.6",
+    "fees": 41812,
+    "userReview": "3.9",
+    "featured": false
+  },
+  {
+    "id": 278,
+    "name": "College 278",
+    "rating": "1.9",
+    "fees": 57543,
+    "userReview": "2.6",
+    "featured": false
+  },
+  {
+    "id": 279,
+    "name": "College 279",
+    "rating": "0.9",
+    "fees": 48460,
+    "userReview": "0.4",
+    "featured": true
+  },
+  {
+    "id": 280,
+    "name": "College 280",
+    "rating": "0.8",
+    "fees": 36776,
+    "userReview": "0.2",
+    "featured": false
+  },
+  {
+    "id": 281,
+    "name": "College 281",
+    "rating": "1.0",
+    "fees": 31585,
+    "userReview": "3.1",
+    "featured": true
+  },
+  {
+    "id": 282,
+    "name": "College 282",
+    "rating": "1.3",
+    "fees": 18651,
+    "userReview": "2.8",
+    "featured": false
+  },
+  {
+    "id": 283,
+    "name": "College 283",
+    "rating": "1.6",
+    "fees": 36659,
+    "userReview": "4.0",
+    "featured": true
+  },
+  {
+    "id": 284,
+    "name": "College 284",
+    "rating": "4.4",
+    "fees": 13141,
+    "userReview": "3.3",
+    "featured": false
+  },
+  {
+    "id": 285,
+    "name": "College 285",
+    "rating": "0.5",
+    "fees": 59817,
+    "userReview": "3.6",
+    "featured": true
+  },
+  {
+    "id": 286,
+    "name": "College 286",
+    "rating": "1.4",
+    "fees": 53109,
+    "userReview": "0.2",
+    "featured": false
+  },
+  {
+    "id": 287,
+    "name": "College 287",
+    "rating": "4.9",
+    "fees": 28591,
+    "userReview": "0.6",
+    "featured": false
+  },
+  {
+    "id": 288,
+    "name": "College 288",
+    "rating": "0.7",
+    "fees": 45814,
+    "userReview": "2.4",
+    "featured": false
+  },
+  {
+    "id": 289,
+    "name": "College 289",
+    "rating": "1.2",
+    "fees": 10379,
+    "userReview": "0.5",
+    "featured": false
+  },
+  {
+    "id": 290,
+    "name": "College 290",
+    "rating": "0.4",
+    "fees": 57815,
+    "userReview": "4.2",
+    "featured": true
+  },
+  {
+    "id": 291,
+    "name": "College 291",
+    "rating": "2.5",
+    "fees": 56432,
+    "userReview": "2.7",
+    "featured": false
+  },
+  {
+    "id": 292,
+    "name": "College 292",
+    "rating": "1.7",
+    "fees": 42544,
+    "userReview": "0.3",
+    "featured": true
+  },
+  {
+    "id": 293,
+    "name": "College 293",
+    "rating": "1.8",
+    "fees": 50097,
+    "userReview": "3.1",
+    "featured": false
+  },
+  {
+    "id": 294,
+    "name": "College 294",
+    "rating": "0.9",
+    "fees": 19531,
+    "userReview": "1.5",
+    "featured": false
+  },
+  {
+    "id": 295,
+    "name": "College 295",
+    "rating": "1.0",
+    "fees": 26777,
+    "userReview": "4.3",
+    "featured": true
+  },
+  {
+    "id": 296,
+    "name": "College 296",
+    "rating": "3.8",
+    "fees": 42290,
+    "userReview": "1.1",
+    "featured": false
+  },
+  {
+    "id": 297,
+    "name": "College 297",
+    "rating": "3.3",
+    "fees": 28630,
+    "userReview": "4.3",
+    "featured": true
+  },
+  {
+    "id": 298,
+    "name": "College 298",
+    "rating": "0.3",
+    "fees": 34325,
+    "userReview": "2.3",
+    "featured": false
+  },
+  {
+    "id": 299,
+    "name": "College 299",
+    "rating": "3.9",
+    "fees": 51574,
+    "userReview": "2.5",
+    "featured": true
+  },
+  {
+    "id": 300,
+    "name": "College 300",
+    "rating": "4.0",
+    "fees": 59826,
+    "userReview": "4.3",
+    "featured": true
+  },
+  {
+    "id": 301,
+    "name": "College 301",
+    "rating": "2.3",
+    "fees": 56988,
+    "userReview": "1.9",
+    "featured": true
+  },
+  {
+    "id": 302,
+    "name": "College 302",
+    "rating": "2.8",
+    "fees": 15596,
+    "userReview": "1.0",
+    "featured": true
+  },
+  {
+    "id": 303,
+    "name": "College 303",
+    "rating": "1.1",
+    "fees": 57772,
+    "userReview": "3.7",
+    "featured": true
+  },
+  {
+    "id": 304,
+    "name": "College 304",
+    "rating": "0.1",
+    "fees": 20582,
+    "userReview": "2.9",
+    "featured": true
+  },
+  {
+    "id": 305,
+    "name": "College 305",
+    "rating": "0.7",
+    "fees": 56871,
+    "userReview": "1.6",
+    "featured": true
+  },
+  {
+    "id": 306,
+    "name": "College 306",
+    "rating": "1.5",
+    "fees": 28487,
+    "userReview": "0.8",
+    "featured": true
+  },
+  {
+    "id": 307,
+    "name": "College 307",
+    "rating": "0.7",
+    "fees": 35090,
+    "userReview": "2.6",
+    "featured": false
+  },
+  {
+    "id": 308,
+    "name": "College 308",
+    "rating": "1.0",
+    "fees": 45386,
+    "userReview": "3.3",
+    "featured": true
+  },
+  {
+    "id": 309,
+    "name": "College 309",
+    "rating": "3.1",
+    "fees": 12239,
+    "userReview": "0.0",
+    "featured": true
+  },
+  {
+    "id": 310,
+    "name": "College 310",
+    "rating": "0.4",
+    "fees": 31755,
+    "userReview": "3.2",
+    "featured": false
+  },
+  {
+    "id": 311,
+    "name": "College 311",
+    "rating": "4.9",
+    "fees": 28567,
+    "userReview": "3.7",
+    "featured": false
+  },
+  {
+    "id": 312,
+    "name": "College 312",
+    "rating": "2.1",
+    "fees": 37087,
+    "userReview": "4.8",
+    "featured": false
+  },
+  {
+    "id": 313,
+    "name": "College 313",
+    "rating": "4.7",
+    "fees": 37344,
+    "userReview": "3.1",
+    "featured": true
+  },
+  {
+    "id": 314,
+    "name": "College 314",
+    "rating": "3.2",
+    "fees": 21706,
+    "userReview": "2.1",
+    "featured": true
+  },
+  {
+    "id": 315,
+    "name": "College 315",
+    "rating": "2.3",
+    "fees": 36887,
+    "userReview": "3.8",
+    "featured": true
+  },
+  {
+    "id": 316,
+    "name": "College 316",
+    "rating": "0.6",
+    "fees": 50407,
+    "userReview": "3.0",
+    "featured": false
+  },
+  {
+    "id": 317,
+    "name": "College 317",
+    "rating": "1.0",
+    "fees": 25152,
+    "userReview": "0.6",
+    "featured": true
+  },
+  {
+    "id": 318,
+    "name": "College 318",
+    "rating": "2.4",
+    "fees": 49596,
+    "userReview": "0.0",
+    "featured": false
+  },
+  {
+    "id": 319,
+    "name": "College 319",
+    "rating": "3.6",
+    "fees": 15441,
+    "userReview": "1.6",
+    "featured": true
+  },
+  {
+    "id": 320,
+    "name": "College 320",
+    "rating": "4.2",
+    "fees": 12547,
+    "userReview": "4.4",
+    "featured": false
+  },
+  {
+    "id": 321,
+    "name": "College 321",
+    "rating": "4.0",
+    "fees": 49424,
+    "userReview": "1.8",
+    "featured": true
+  },
+  {
+    "id": 322,
+    "name": "College 322",
+    "rating": "4.6",
+    "fees": 35069,
+    "userReview": "1.9",
+    "featured": true
+  },
+  {
+    "id": 323,
+    "name": "College 323",
+    "rating": "4.5",
+    "fees": 15727,
+    "userReview": "1.1",
+    "featured": true
+  },
+  {
+    "id": 324,
+    "name": "College 324",
+    "rating": "3.6",
+    "fees": 32358,
+    "userReview": "4.9",
+    "featured": true
+  },
+  {
+    "id": 325,
+    "name": "College 325",
+    "rating": "2.7",
+    "fees": 53774,
+    "userReview": "4.4",
+    "featured": false
+  },
+  {
+    "id": 326,
+    "name": "College 326",
+    "rating": "1.3",
+    "fees": 20208,
+    "userReview": "2.6",
+    "featured": true
+  },
+  {
+    "id": 327,
+    "name": "College 327",
+    "rating": "1.3",
+    "fees": 25089,
+    "userReview": "2.8",
+    "featured": false
+  },
+  {
+    "id": 328,
+    "name": "College 328",
+    "rating": "1.5",
+    "fees": 36767,
+    "userReview": "4.4",
+    "featured": false
+  },
+  {
+    "id": 329,
+    "name": "College 329",
+    "rating": "2.3",
+    "fees": 43902,
+    "userReview": "1.5",
+    "featured": false
+  },
+  {
+    "id": 330,
+    "name": "College 330",
+    "rating": "4.3",
+    "fees": 12253,
+    "userReview": "3.0",
+    "featured": false
+  },
+  {
+    "id": 331,
+    "name": "College 331",
+    "rating": "2.8",
+    "fees": 45295,
+    "userReview": "4.4",
+    "featured": false
+  },
+  {
+    "id": 332,
+    "name": "College 332",
+    "rating": "4.5",
+    "fees": 34225,
+    "userReview": "1.1",
+    "featured": true
+  },
+  {
+    "id": 333,
+    "name": "College 333",
+    "rating": "0.1",
+    "fees": 43806,
+    "userReview": "2.2",
+    "featured": false
+  },
+  {
+    "id": 334,
+    "name": "College 334",
+    "rating": "2.0",
+    "fees": 42216,
+    "userReview": "1.4",
+    "featured": true
+  },
+  {
+    "id": 335,
+    "name": "College 335",
+    "rating": "3.2",
+    "fees": 51469,
+    "userReview": "3.1",
+    "featured": false
+  },
+  {
+    "id": 336,
+    "name": "College 336",
+    "rating": "2.9",
+    "fees": 34469,
+    "userReview": "1.3",
+    "featured": false
+  },
+  {
+    "id": 337,
+    "name": "College 337",
+    "rating": "0.6",
+    "fees": 27823,
+    "userReview": "2.4",
+    "featured": true
+  },
+  {
+    "id": 338,
+    "name": "College 338",
+    "rating": "2.1",
+    "fees": 34437,
+    "userReview": "1.0",
+    "featured": false
+  },
+  {
+    "id": 339,
+    "name": "College 339",
+    "rating": "4.7",
+    "fees": 41126,
+    "userReview": "2.0",
+    "featured": false
+  },
+  {
+    "id": 340,
+    "name": "College 340",
+    "rating": "3.5",
+    "fees": 42723,
+    "userReview": "2.9",
+    "featured": false
+  },
+  {
+    "id": 341,
+    "name": "College 341",
+    "rating": "5.0",
+    "fees": 19746,
+    "userReview": "4.9",
+    "featured": false
+  },
+  {
+    "id": 342,
+    "name": "College 342",
+    "rating": "0.8",
+    "fees": 49287,
+    "userReview": "1.3",
+    "featured": false
+  },
+  {
+    "id": 343,
+    "name": "College 343",
+    "rating": "4.1",
+    "fees": 55989,
+    "userReview": "0.0",
+    "featured": true
+  },
+  {
+    "id": 344,
+    "name": "College 344",
+    "rating": "4.1",
+    "fees": 17296,
+    "userReview": "0.8",
+    "featured": false
+  },
+  {
+    "id": 345,
+    "name": "College 345",
+    "rating": "1.8",
+    "fees": 58935,
+    "userReview": "3.1",
+    "featured": true
+  },
+  {
+    "id": 346,
+    "name": "College 346",
+    "rating": "2.9",
+    "fees": 35214,
+    "userReview": "3.1",
+    "featured": false
+  },
+  {
+    "id": 347,
+    "name": "College 347",
+    "rating": "0.1",
+    "fees": 52057,
+    "userReview": "4.2",
+    "featured": false
+  },
+  {
+    "id": 348,
+    "name": "College 348",
+    "rating": "3.0",
+    "fees": 19292,
+    "userReview": "2.2",
+    "featured": false
+  },
+  {
+    "id": 349,
+    "name": "College 349",
+    "rating": "1.4",
+    "fees": 59159,
+    "userReview": "3.4",
+    "featured": false
+  },
+  {
+    "id": 350,
+    "name": "College 350",
+    "rating": "2.3",
+    "fees": 23623,
+    "userReview": "0.9",
+    "featured": false
+  },
+  {
+    "id": 351,
+    "name": "College 351",
+    "rating": "2.1",
+    "fees": 11584,
+    "userReview": "2.6",
+    "featured": true
+  },
+  {
+    "id": 352,
+    "name": "College 352",
+    "rating": "1.9",
+    "fees": 55494,
+    "userReview": "4.8",
+    "featured": true
+  },
+  {
+    "id": 353,
+    "name": "College 353",
+    "rating": "2.9",
+    "fees": 31279,
+    "userReview": "4.5",
+    "featured": false
+  },
+  {
+    "id": 354,
+    "name": "College 354",
+    "rating": "3.1",
+    "fees": 55833,
+    "userReview": "4.8",
+    "featured": false
+  },
+  {
+    "id": 355,
+    "name": "College 355",
+    "rating": "2.7",
+    "fees": 19332,
+    "userReview": "1.3",
+    "featured": false
+  },
+  {
+    "id": 356,
+    "name": "College 356",
+    "rating": "4.2",
+    "fees": 44735,
+    "userReview": "0.2",
+    "featured": true
+  },
+  {
+    "id": 357,
+    "name": "College 357",
+    "rating": "1.4",
+    "fees": 12112,
+    "userReview": "0.8",
+    "featured": true
+  },
+  {
+    "id": 358,
+    "name": "College 358",
+    "rating": "3.7",
+    "fees": 39172,
+    "userReview": "0.1",
+    "featured": false
+  },
+  {
+    "id": 359,
+    "name": "College 359",
+    "rating": "1.6",
+    "fees": 19344,
+    "userReview": "1.2",
+    "featured": true
+  },
+  {
+    "id": 360,
+    "name": "College 360",
+    "rating": "4.5",
+    "fees": 10394,
+    "userReview": "3.6",
+    "featured": true
+  },
+  {
+    "id": 361,
+    "name": "College 361",
+    "rating": "1.2",
+    "fees": 46520,
+    "userReview": "0.2",
+    "featured": true
+  },
+  {
+    "id": 362,
+    "name": "College 362",
+    "rating": "2.9",
+    "fees": 57991,
+    "userReview": "2.7",
+    "featured": true
+  },
+  {
+    "id": 363,
+    "name": "College 363",
+    "rating": "1.6",
+    "fees": 28646,
+    "userReview": "0.7",
+    "featured": false
+  },
+  {
+    "id": 364,
+    "name": "College 364",
+    "rating": "4.7",
+    "fees": 55721,
+    "userReview": "1.1",
+    "featured": true
+  },
+  {
+    "id": 365,
+    "name": "College 365",
+    "rating": "4.1",
+    "fees": 43994,
+    "userReview": "4.5",
+    "featured": true
+  },
+  {
+    "id": 366,
+    "name": "College 366",
+    "rating": "2.5",
+    "fees": 35471,
+    "userReview": "1.7",
+    "featured": false
+  },
+  {
+    "id": 367,
+    "name": "College 367",
+    "rating": "4.3",
+    "fees": 43519,
+    "userReview": "2.9",
+    "featured": false
+  },
+  {
+    "id": 368,
+    "name": "College 368",
+    "rating": "1.1",
+    "fees": 22649,
+    "userReview": "4.0",
+    "featured": false
+  },
+  {
+    "id": 369,
+    "name": "College 369",
+    "rating": "5.0",
+    "fees": 42041,
+    "userReview": "0.6",
+    "featured": true
+  },
+  {
+    "id": 370,
+    "name": "College 370",
+    "rating": "0.1",
+    "fees": 14720,
+    "userReview": "2.0",
+    "featured": false
+  },
+  {
+    "id": 371,
+    "name": "College 371",
+    "rating": "1.7",
+    "fees": 30975,
+    "userReview": "0.4",
+    "featured": false
+  },
+  {
+    "id": 372,
+    "name": "College 372",
+    "rating": "2.1",
+    "fees": 30283,
+    "userReview": "5.0",
+    "featured": false
+  },
+  {
+    "id": 373,
+    "name": "College 373",
+    "rating": "0.1",
+    "fees": 24870,
+    "userReview": "3.9",
+    "featured": false
+  },
+  {
+    "id": 374,
+    "name": "College 374",
+    "rating": "0.8",
+    "fees": 54199,
+    "userReview": "4.0",
+    "featured": true
+  },
+  {
+    "id": 375,
+    "name": "College 375",
+    "rating": "2.3",
+    "fees": 59581,
+    "userReview": "1.8",
+    "featured": true
+  },
+  {
+    "id": 376,
+    "name": "College 376",
+    "rating": "2.5",
+    "fees": 41132,
+    "userReview": "3.5",
+    "featured": true
+  },
+  {
+    "id": 377,
+    "name": "College 377",
+    "rating": "2.7",
+    "fees": 29683,
+    "userReview": "2.3",
+    "featured": true
+  },
+  {
+    "id": 378,
+    "name": "College 378",
+    "rating": "0.6",
+    "fees": 40794,
+    "userReview": "1.4",
+    "featured": true
+  },
+  {
+    "id": 379,
+    "name": "College 379",
+    "rating": "1.9",
+    "fees": 44461,
+    "userReview": "2.5",
+    "featured": false
+  },
+  {
+    "id": 380,
+    "name": "College 380",
+    "rating": "3.0",
+    "fees": 37792,
+    "userReview": "2.0",
+    "featured": true
+  },
+  {
+    "id": 381,
+    "name": "College 381",
+    "rating": "2.2",
+    "fees": 59637,
+    "userReview": "2.5",
+    "featured": true
+  },
+  {
+    "id": 382,
+    "name": "College 382",
+    "rating": "2.7",
+    "fees": 59695,
+    "userReview": "0.2",
+    "featured": true
+  },
+  {
+    "id": 383,
+    "name": "College 383",
+    "rating": "2.9",
+    "fees": 37682,
+    "userReview": "0.8",
+    "featured": true
+  },
+  {
+    "id": 384,
+    "name": "College 384",
+    "rating": "0.8",
+    "fees": 21658,
+    "userReview": "2.4",
+    "featured": false
+  },
+  {
+    "id": 385,
+    "name": "College 385",
+    "rating": "3.0",
+    "fees": 17538,
+    "userReview": "2.6",
+    "featured": false
+  },
+  {
+    "id": 386,
+    "name": "College 386",
+    "rating": "2.5",
+    "fees": 29317,
+    "userReview": "1.6",
+    "featured": true
+  },
+  {
+    "id": 387,
+    "name": "College 387",
+    "rating": "0.5",
+    "fees": 33293,
+    "userReview": "0.5",
+    "featured": true
+  },
+  {
+    "id": 388,
+    "name": "College 388",
+    "rating": "0.4",
+    "fees": 26721,
+    "userReview": "4.8",
+    "featured": false
+  },
+  {
+    "id": 389,
+    "name": "College 389",
+    "rating": "1.3",
+    "fees": 39832,
+    "userReview": "0.2",
+    "featured": false
+  },
+  {
+    "id": 390,
+    "name": "College 390",
+    "rating": "2.8",
+    "fees": 19451,
+    "userReview": "2.5",
+    "featured": true
+  },
+  {
+    "id": 391,
+    "name": "College 391",
+    "rating": "3.0",
+    "fees": 32382,
+    "userReview": "2.0",
+    "featured": false
+  },
+  {
+    "id": 392,
+    "name": "College 392",
+    "rating": "2.7",
+    "fees": 49815,
+    "userReview": "4.1",
+    "featured": true
+  },
+  {
+    "id": 393,
+    "name": "College 393",
+    "rating": "4.0",
+    "fees": 32823,
+    "userReview": "2.6",
+    "featured": true
+  },
+  {
+    "id": 394,
+    "name": "College 394",
+    "rating": "3.5",
+    "fees": 20818,
+    "userReview": "4.4",
+    "featured": true
+  },
+  {
+    "id": 395,
+    "name": "College 395",
+    "rating": "0.4",
+    "fees": 58922,
+    "userReview": "1.3",
+    "featured": true
+  },
+  {
+    "id": 396,
+    "name": "College 396",
+    "rating": "3.4",
+    "fees": 58333,
+    "userReview": "0.6",
+    "featured": true
+  },
+  {
+    "id": 397,
+    "name": "College 397",
+    "rating": "0.5",
+    "fees": 25222,
+    "userReview": "4.8",
+    "featured": false
+  },
+  {
+    "id": 398,
+    "name": "College 398",
+    "rating": "3.1",
+    "fees": 34583,
+    "userReview": "3.5",
+    "featured": true
+  },
+  {
+    "id": 399,
+    "name": "College 399",
+    "rating": "0.2",
+    "fees": 58668,
+    "userReview": "4.9",
+    "featured": true
+  },
+  {
+    "id": 400,
+    "name": "College 400",
+    "rating": "3.9",
+    "fees": 57643,
+    "userReview": "3.8",
+    "featured": false
+  },
+  {
+    "id": 401,
+    "name": "College 401",
+    "rating": "1.8",
+    "fees": 41706,
+    "userReview": "4.6",
+    "featured": true
+  },
+  {
+    "id": 402,
+    "name": "College 402",
+    "rating": "4.3",
+    "fees": 31783,
+    "userReview": "1.6",
+    "featured": false
+  },
+  {
+    "id": 403,
+    "name": "College 403",
+    "rating": "2.8",
+    "fees": 39260,
+    "userReview": "1.4",
+    "featured": false
+  },
+  {
+    "id": 404,
+    "name": "College 404",
+    "rating": "3.9",
+    "fees": 12928,
+    "userReview": "4.2",
+    "featured": true
+  },
+  {
+    "id": 405,
+    "name": "College 405",
+    "rating": "3.3",
+    "fees": 19968,
+    "userReview": "2.1",
+    "featured": true
+  },
+  {
+    "id": 406,
+    "name": "College 406",
+    "rating": "1.5",
+    "fees": 36978,
+    "userReview": "4.6",
+    "featured": true
+  },
+  {
+    "id": 407,
+    "name": "College 407",
+    "rating": "4.9",
+    "fees": 36887,
+    "userReview": "1.7",
+    "featured": true
+  },
+  {
+    "id": 408,
+    "name": "College 408",
+    "rating": "4.8",
+    "fees": 36535,
+    "userReview": "0.2",
+    "featured": true
+  },
+  {
+    "id": 409,
+    "name": "College 409",
+    "rating": "1.3",
+    "fees": 13562,
+    "userReview": "3.1",
+    "featured": false
+  },
+  {
+    "id": 410,
+    "name": "College 410",
+    "rating": "0.0",
+    "fees": 36698,
+    "userReview": "3.1",
+    "featured": true
+  },
+  {
+    "id": 411,
+    "name": "College 411",
+    "rating": "3.1",
+    "fees": 55301,
+    "userReview": "1.5",
+    "featured": true
+  },
+  {
+    "id": 412,
+    "name": "College 412",
+    "rating": "3.0",
+    "fees": 18647,
+    "userReview": "0.9",
+    "featured": false
+  },
+  {
+    "id": 413,
+    "name": "College 413",
+    "rating": "4.9",
+    "fees": 10780,
+    "userReview": "4.4",
+    "featured": true
+  },
+  {
+    "id": 414,
+    "name": "College 414",
+    "rating": "3.3",
+    "fees": 40644,
+    "userReview": "4.7",
+    "featured": false
+  },
+  {
+    "id": 415,
+    "name": "College 415",
+    "rating": "3.6",
+    "fees": 32548,
+    "userReview": "1.4",
+    "featured": true
+  },
+  {
+    "id": 416,
+    "name": "College 416",
+    "rating": "4.4",
+    "fees": 21748,
+    "userReview": "0.4",
+    "featured": true
+  },
+  {
+    "id": 417,
+    "name": "College 417",
+    "rating": "1.2",
+    "fees": 14430,
+    "userReview": "3.4",
+    "featured": false
+  },
+  {
+    "id": 418,
+    "name": "College 418",
+    "rating": "1.1",
+    "fees": 20174,
+    "userReview": "3.1",
+    "featured": false
+  },
+  {
+    "id": 419,
+    "name": "College 419",
+    "rating": "2.2",
+    "fees": 43895,
+    "userReview": "2.7",
+    "featured": false
+  },
+  {
+    "id": 420,
+    "name": "College 420",
+    "rating": "4.9",
+    "fees": 59945,
+    "userReview": "4.4",
+    "featured": false
+  },
+  {
+    "id": 421,
+    "name": "College 421",
+    "rating": "1.5",
+    "fees": 28990,
+    "userReview": "2.5",
+    "featured": false
+  },
+  {
+    "id": 422,
+    "name": "College 422",
+    "rating": "2.0",
+    "fees": 49676,
+    "userReview": "3.7",
+    "featured": false
+  },
+  {
+    "id": 423,
+    "name": "College 423",
+    "rating": "0.8",
+    "fees": 28465,
+    "userReview": "2.4",
+    "featured": false
+  },
+  {
+    "id": 424,
+    "name": "College 424",
+    "rating": "0.1",
+    "fees": 22280,
+    "userReview": "4.3",
+    "featured": false
+  },
+  {
+    "id": 425,
+    "name": "College 425",
+    "rating": "0.2",
+    "fees": 57166,
+    "userReview": "2.9",
+    "featured": true
+  },
+  {
+    "id": 426,
+    "name": "College 426",
+    "rating": "4.8",
+    "fees": 11128,
+    "userReview": "3.3",
+    "featured": true
+  },
+  {
+    "id": 427,
+    "name": "College 427",
+    "rating": "1.9",
+    "fees": 19901,
+    "userReview": "1.0",
+    "featured": true
+  },
+  {
+    "id": 428,
+    "name": "College 428",
+    "rating": "2.6",
+    "fees": 17266,
+    "userReview": "1.7",
+    "featured": false
+  },
+  {
+    "id": 429,
+    "name": "College 429",
+    "rating": "3.2",
+    "fees": 41815,
+    "userReview": "4.6",
+    "featured": false
+  },
+  {
+    "id": 430,
+    "name": "College 430",
+    "rating": "4.8",
+    "fees": 55873,
+    "userReview": "2.1",
+    "featured": false
+  },
+  {
+    "id": 431,
+    "name": "College 431",
+    "rating": "3.6",
+    "fees": 32238,
+    "userReview": "0.5",
+    "featured": false
+  },
+  {
+    "id": 432,
+    "name": "College 432",
+    "rating": "1.1",
+    "fees": 51274,
+    "userReview": "1.1",
+    "featured": false
+  },
+  {
+    "id": 433,
+    "name": "College 433",
+    "rating": "0.7",
+    "fees": 19783,
+    "userReview": "2.3",
+    "featured": false
+  },
+  {
+    "id": 434,
+    "name": "College 434",
+    "rating": "2.4",
+    "fees": 27055,
+    "userReview": "3.8",
+    "featured": true
+  },
+  {
+    "id": 435,
+    "name": "College 435",
+    "rating": "2.0",
+    "fees": 26302,
+    "userReview": "1.6",
+    "featured": true
+  },
+  {
+    "id": 436,
+    "name": "College 436",
+    "rating": "4.3",
+    "fees": 39700,
+    "userReview": "1.5",
+    "featured": true
+  },
+  {
+    "id": 437,
+    "name": "College 437",
+    "rating": "3.9",
+    "fees": 13260,
+    "userReview": "0.7",
+    "featured": false
+  },
+  {
+    "id": 438,
+    "name": "College 438",
+    "rating": "4.6",
+    "fees": 32599,
+    "userReview": "4.8",
+    "featured": false
+  },
+  {
+    "id": 439,
+    "name": "College 439",
+    "rating": "2.9",
+    "fees": 50799,
+    "userReview": "2.3",
+    "featured": false
+  },
+  {
+    "id": 440,
+    "name": "College 440",
+    "rating": "3.7",
+    "fees": 16970,
+    "userReview": "0.8",
+    "featured": false
+  },
+  {
+    "id": 441,
+    "name": "College 441",
+    "rating": "3.1",
+    "fees": 38013,
+    "userReview": "0.7",
+    "featured": true
+  },
+  {
+    "id": 442,
+    "name": "College 442",
+    "rating": "4.4",
+    "fees": 58917,
+    "userReview": "2.2",
+    "featured": false
+  },
+  {
+    "id": 443,
+    "name": "College 443",
+    "rating": "4.7",
+    "fees": 54363,
+    "userReview": "4.5",
+    "featured": false
+  },
+  {
+    "id": 444,
+    "name": "College 444",
+    "rating": "0.9",
+    "fees": 25989,
+    "userReview": "2.2",
+    "featured": true
+  },
+  {
+    "id": 445,
+    "name": "College 445",
+    "rating": "1.6",
+    "fees": 11550,
+    "userReview": "4.0",
+    "featured": false
+  },
+  {
+    "id": 446,
+    "name": "College 446",
+    "rating": "3.2",
+    "fees": 16691,
+    "userReview": "4.5",
+    "featured": true
+  },
+  {
+    "id": 447,
+    "name": "College 447",
+    "rating": "1.8",
+    "fees": 50669,
+    "userReview": "3.1",
+    "featured": true
+  },
+  {
+    "id": 448,
+    "name": "College 448",
+    "rating": "4.7",
+    "fees": 51500,
+    "userReview": "4.4",
+    "featured": false
+  },
+  {
+    "id": 449,
+    "name": "College 449",
+    "rating": "4.4",
+    "fees": 34619,
+    "userReview": "0.1",
+    "featured": false
+  },
+  {
+    "id": 450,
+    "name": "College 450",
+    "rating": "4.4",
+    "fees": 40792,
+    "userReview": "1.8",
+    "featured": false
+  },
+  {
+    "id": 451,
+    "name": "College 451",
+    "rating": "4.9",
+    "fees": 56917,
+    "userReview": "3.6",
+    "featured": false
+  },
+  {
+    "id": 452,
+    "name": "College 452",
+    "rating": "2.0",
+    "fees": 39357,
+    "userReview": "3.9",
+    "featured": false
+  },
+  {
+    "id": 453,
+    "name": "College 453",
+    "rating": "4.3",
+    "fees": 48292,
+    "userReview": "4.9",
+    "featured": false
+  },
+  {
+    "id": 454,
+    "name": "College 454",
+    "rating": "3.8",
+    "fees": 32800,
+    "userReview": "0.7",
+    "featured": false
+  },
+  {
+    "id": 455,
+    "name": "College 455",
+    "rating": "4.3",
+    "fees": 31324,
+    "userReview": "0.7",
+    "featured": true
+  },
+  {
+    "id": 456,
+    "name": "College 456",
+    "rating": "2.7",
+    "fees": 14020,
+    "userReview": "2.4",
+    "featured": false
+  },
+  {
+    "id": 457,
+    "name": "College 457",
+    "rating": "0.6",
+    "fees": 38145,
+    "userReview": "4.4",
+    "featured": true
+  },
+  {
+    "id": 458,
+    "name": "College 458",
+    "rating": "2.3",
+    "fees": 54447,
+    "userReview": "4.0",
+    "featured": true
+  },
+  {
+    "id": 459,
+    "name": "College 459",
+    "rating": "2.5",
+    "fees": 26682,
+    "userReview": "3.0",
+    "featured": false
+  },
+  {
+    "id": 460,
+    "name": "College 460",
+    "rating": "4.7",
+    "fees": 34282,
+    "userReview": "4.2",
+    "featured": false
+  },
+  {
+    "id": 461,
+    "name": "College 461",
+    "rating": "3.8",
+    "fees": 24767,
+    "userReview": "3.6",
+    "featured": true
+  },
+  {
+    "id": 462,
+    "name": "College 462",
+    "rating": "2.9",
+    "fees": 32227,
+    "userReview": "0.8",
+    "featured": true
+  },
+  {
+    "id": 463,
+    "name": "College 463",
+    "rating": "4.8",
+    "fees": 22835,
+    "userReview": "2.7",
+    "featured": true
+  },
+  {
+    "id": 464,
+    "name": "College 464",
+    "rating": "1.9",
+    "fees": 34755,
+    "userReview": "0.7",
+    "featured": false
+  },
+  {
+    "id": 465,
+    "name": "College 465",
+    "rating": "1.8",
+    "fees": 24930,
+    "userReview": "2.7",
+    "featured": false
+  },
+  {
+    "id": 466,
+    "name": "College 466",
+    "rating": "4.4",
+    "fees": 13364,
+    "userReview": "3.2",
+    "featured": false
+  },
+  {
+    "id": 467,
+    "name": "College 467",
+    "rating": "3.2",
+    "fees": 55897,
+    "userReview": "0.2",
+    "featured": false
+  },
+  {
+    "id": 468,
+    "name": "College 468",
+    "rating": "3.5",
+    "fees": 46156,
+    "userReview": "3.9",
+    "featured": true
+  },
+  {
+    "id": 469,
+    "name": "College 469",
+    "rating": "1.3",
+    "fees": 43571,
+    "userReview": "1.7",
+    "featured": true
+  },
+  {
+    "id": 470,
+    "name": "College 470",
+    "rating": "0.8",
+    "fees": 39626,
+    "userReview": "4.0",
+    "featured": false
+  },
+  {
+    "id": 471,
+    "name": "College 471",
+    "rating": "2.8",
+    "fees": 32967,
+    "userReview": "1.4",
+    "featured": true
+  },
+  {
+    "id": 472,
+    "name": "College 472",
+    "rating": "1.5",
+    "fees": 43005,
+    "userReview": "4.2",
+    "featured": true
+  },
+  {
+    "id": 473,
+    "name": "College 473",
+    "rating": "3.2",
+    "fees": 54227,
+    "userReview": "2.5",
+    "featured": true
+  },
+  {
+    "id": 474,
+    "name": "College 474",
+    "rating": "4.9",
+    "fees": 45146,
+    "userReview": "0.5",
+    "featured": true
+  },
+  {
+    "id": 475,
+    "name": "College 475",
+    "rating": "3.1",
+    "fees": 24867,
+    "userReview": "4.9",
+    "featured": false
+  },
+  {
+    "id": 476,
+    "name": "College 476",
+    "rating": "1.0",
+    "fees": 18559,
+    "userReview": "2.6",
+    "featured": false
+  },
+  {
+    "id": 477,
+    "name": "College 477",
+    "rating": "1.6",
+    "fees": 49099,
+    "userReview": "3.3",
+    "featured": false
+  },
+  {
+    "id": 478,
+    "name": "College 478",
+    "rating": "3.5",
+    "fees": 32630,
+    "userReview": "4.5",
+    "featured": true
+  },
+  {
+    "id": 479,
+    "name": "College 479",
+    "rating": "3.8",
+    "fees": 25419,
+    "userReview": "4.5",
+    "featured": true
+  },
+  {
+    "id": 480,
+    "name": "College 480",
+    "rating": "0.1",
+    "fees": 48578,
+    "userReview": "3.2",
+    "featured": true
+  },
+  {
+    "id": 481,
+    "name": "College 481",
+    "rating": "1.0",
+    "fees": 36552,
+    "userReview": "2.8",
+    "featured": false
+  },
+  {
+    "id": 482,
+    "name": "College 482",
+    "rating": "4.2",
+    "fees": 32831,
+    "userReview": "2.5",
+    "featured": true
+  },
+  {
+    "id": 483,
+    "name": "College 483",
+    "rating": "1.6",
+    "fees": 35687,
+    "userReview": "3.4",
+    "featured": true
+  },
+  {
+    "id": 484,
+    "name": "College 484",
+    "rating": "4.3",
+    "fees": 12699,
+    "userReview": "0.7",
+    "featured": false
+  },
+  {
+    "id": 485,
+    "name": "College 485",
+    "rating": "1.1",
+    "fees": 48567,
+    "userReview": "1.1",
+    "featured": false
+  },
+  {
+    "id": 486,
+    "name": "College 486",
+    "rating": "2.0",
+    "fees": 37192,
+    "userReview": "4.6",
+    "featured": true
+  },
+  {
+    "id": 487,
+    "name": "College 487",
+    "rating": "3.2",
+    "fees": 46907,
+    "userReview": "1.1",
+    "featured": false
+  },
+  {
+    "id": 488,
+    "name": "College 488",
+    "rating": "0.5",
+    "fees": 32571,
+    "userReview": "0.8",
+    "featured": false
+  },
+  {
+    "id": 489,
+    "name": "College 489",
+    "rating": "2.6",
+    "fees": 26319,
+    "userReview": "4.6",
+    "featured": true
+  },
+  {
+    "id": 490,
+    "name": "College 490",
+    "rating": "4.5",
+    "fees": 12460,
+    "userReview": "1.4",
+    "featured": false
+  },
+  {
+    "id": 491,
+    "name": "College 491",
+    "rating": "4.3",
+    "fees": 40613,
+    "userReview": "4.6",
+    "featured": false
+  },
+  {
+    "id": 492,
+    "name": "College 492",
+    "rating": "2.1",
+    "fees": 59873,
+    "userReview": "1.0",
+    "featured": true
+  },
+  {
+    "id": 493,
+    "name": "College 493",
+    "rating": "1.0",
+    "fees": 38612,
+    "userReview": "0.8",
+    "featured": false
+  },
+  {
+    "id": 494,
+    "name": "College 494",
+    "rating": "1.6",
+    "fees": 13430,
+    "userReview": "3.9",
+    "featured": false
+  },
+  {
+    "id": 495,
+    "name": "College 495",
+    "rating": "1.5",
+    "fees": 20101,
+    "userReview": "4.8",
+    "featured": false
+  },
+  {
+    "id": 496,
+    "name": "College 496",
+    "rating": "1.9",
+    "fees": 19069,
+    "userReview": "4.6",
+    "featured": false
+  },
+  {
+    "id": 497,
+    "name": "College 497",
+    "rating": "2.7",
+    "fees": 16458,
+    "userReview": "3.5",
+    "featured": true
+  },
+  {
+    "id": 498,
+    "name": "College 498",
+    "rating": "4.2",
+    "fees": 38378,
+    "userReview": "3.2",
+    "featured": false
+  },
+  {
+    "id": 499,
+    "name": "College 499",
+    "rating": "0.6",
+    "fees": 23468,
+    "userReview": "2.1",
+    "featured": false
+  },
+  {
+    "id": 500,
+    "name": "College 500",
+    "rating": "4.5",
+    "fees": 48520,
+    "userReview": "1.8",
+    "featured": true
+  },
+  {
+    "id": 501,
+    "name": "College 501",
+    "rating": "0.2",
+    "fees": 58823,
+    "userReview": "2.2",
+    "featured": false
+  },
+  {
+    "id": 502,
+    "name": "College 502",
+    "rating": "4.5",
+    "fees": 47534,
+    "userReview": "1.0",
+    "featured": false
+  },
+  {
+    "id": 503,
+    "name": "College 503",
+    "rating": "3.4",
+    "fees": 17200,
+    "userReview": "3.7",
+    "featured": false
+  },
+  {
+    "id": 504,
+    "name": "College 504",
+    "rating": "4.0",
+    "fees": 48388,
+    "userReview": "3.5",
+    "featured": false
+  },
+  {
+    "id": 505,
+    "name": "College 505",
+    "rating": "4.7",
+    "fees": 27144,
+    "userReview": "3.0",
+    "featured": false
+  },
+  {
+    "id": 506,
+    "name": "College 506",
+    "rating": "3.0",
+    "fees": 12161,
+    "userReview": "1.8",
+    "featured": false
+  },
+  {
+    "id": 507,
+    "name": "College 507",
+    "rating": "3.5",
+    "fees": 30438,
+    "userReview": "0.7",
+    "featured": false
+  },
+  {
+    "id": 508,
+    "name": "College 508",
+    "rating": "2.1",
+    "fees": 54102,
+    "userReview": "2.4",
+    "featured": false
+  },
+  {
+    "id": 509,
+    "name": "College 509",
+    "rating": "4.6",
+    "fees": 21027,
+    "userReview": "2.2",
+    "featured": true
+  },
+  {
+    "id": 510,
+    "name": "College 510",
+    "rating": "3.6",
+    "fees": 31945,
+    "userReview": "4.7",
+    "featured": false
+  },
+  {
+    "id": 511,
+    "name": "College 511",
+    "rating": "3.7",
+    "fees": 35959,
+    "userReview": "1.7",
+    "featured": true
+  },
+  {
+    "id": 512,
+    "name": "College 512",
+    "rating": "4.8",
+    "fees": 48624,
+    "userReview": "4.2",
+    "featured": true
+  },
+  {
+    "id": 513,
+    "name": "College 513",
+    "rating": "3.0",
+    "fees": 15938,
+    "userReview": "3.3",
+    "featured": true
+  },
+  {
+    "id": 514,
+    "name": "College 514",
+    "rating": "3.7",
+    "fees": 26439,
+    "userReview": "5.0",
+    "featured": false
+  },
+  {
+    "id": 515,
+    "name": "College 515",
+    "rating": "0.0",
+    "fees": 11462,
+    "userReview": "1.0",
+    "featured": true
+  },
+  {
+    "id": 516,
+    "name": "College 516",
+    "rating": "0.3",
+    "fees": 52193,
+    "userReview": "1.4",
+    "featured": true
+  },
+  {
+    "id": 517,
+    "name": "College 517",
+    "rating": "4.0",
+    "fees": 58394,
+    "userReview": "1.1",
+    "featured": true
+  },
+  {
+    "id": 518,
+    "name": "College 518",
+    "rating": "3.4",
+    "fees": 29261,
+    "userReview": "0.4",
+    "featured": false
+  },
+  {
+    "id": 519,
+    "name": "College 519",
+    "rating": "0.3",
+    "fees": 36352,
+    "userReview": "3.1",
+    "featured": true
+  },
+  {
+    "id": 520,
+    "name": "College 520",
+    "rating": "4.7",
+    "fees": 40967,
+    "userReview": "1.1",
+    "featured": false
+  },
+  {
+    "id": 521,
+    "name": "College 521",
+    "rating": "0.8",
+    "fees": 49184,
+    "userReview": "1.5",
+    "featured": false
+  },
+  {
+    "id": 522,
+    "name": "College 522",
+    "rating": "1.1",
+    "fees": 51498,
+    "userReview": "4.4",
+    "featured": false
+  },
+  {
+    "id": 523,
+    "name": "College 523",
+    "rating": "1.4",
+    "fees": 15589,
+    "userReview": "4.9",
+    "featured": false
+  },
+  {
+    "id": 524,
+    "name": "College 524",
+    "rating": "4.7",
+    "fees": 11698,
+    "userReview": "4.4",
+    "featured": true
+  },
+  {
+    "id": 525,
+    "name": "College 525",
+    "rating": "1.7",
+    "fees": 57681,
+    "userReview": "1.5",
+    "featured": true
+  },
+  {
+    "id": 526,
+    "name": "College 526",
+    "rating": "4.8",
+    "fees": 40666,
+    "userReview": "0.4",
+    "featured": false
+  },
+  {
+    "id": 527,
+    "name": "College 527",
+    "rating": "2.1",
+    "fees": 38101,
+    "userReview": "0.6",
+    "featured": true
+  },
+  {
+    "id": 528,
+    "name": "College 528",
+    "rating": "3.1",
+    "fees": 12172,
+    "userReview": "2.7",
+    "featured": false
+  },
+  {
+    "id": 529,
+    "name": "College 529",
+    "rating": "4.5",
+    "fees": 27220,
+    "userReview": "0.3",
+    "featured": false
+  },
+  {
+    "id": 530,
+    "name": "College 530",
+    "rating": "1.0",
+    "fees": 53094,
+    "userReview": "0.9",
+    "featured": false
+  },
+  {
+    "id": 531,
+    "name": "College 531",
+    "rating": "2.5",
+    "fees": 33343,
+    "userReview": "2.3",
+    "featured": false
+  },
+  {
+    "id": 532,
+    "name": "College 532",
+    "rating": "0.9",
+    "fees": 51824,
+    "userReview": "4.5",
+    "featured": false
+  },
+  {
+    "id": 533,
+    "name": "College 533",
+    "rating": "2.3",
+    "fees": 20867,
+    "userReview": "4.0",
+    "featured": true
+  },
+  {
+    "id": 534,
+    "name": "College 534",
+    "rating": "4.4",
+    "fees": 57611,
+    "userReview": "0.9",
+    "featured": true
+  },
+  {
+    "id": 535,
+    "name": "College 535",
+    "rating": "2.0",
+    "fees": 24228,
+    "userReview": "4.6",
+    "featured": true
+  },
+  {
+    "id": 536,
+    "name": "College 536",
+    "rating": "2.5",
+    "fees": 47077,
+    "userReview": "0.0",
+    "featured": false
+  },
+  {
+    "id": 537,
+    "name": "College 537",
+    "rating": "3.9",
+    "fees": 38394,
+    "userReview": "0.4",
+    "featured": false
+  },
+  {
+    "id": 538,
+    "name": "College 538",
+    "rating": "3.3",
+    "fees": 35030,
+    "userReview": "3.0",
+    "featured": false
+  },
+  {
+    "id": 539,
+    "name": "College 539",
+    "rating": "3.9",
+    "fees": 19998,
+    "userReview": "2.1",
+    "featured": true
+  },
+  {
+    "id": 540,
+    "name": "College 540",
+    "rating": "4.9",
+    "fees": 27371,
+    "userReview": "4.8",
+    "featured": false
+  },
+  {
+    "id": 541,
+    "name": "College 541",
+    "rating": "1.0",
+    "fees": 47606,
+    "userReview": "3.1",
+    "featured": false
+  },
+  {
+    "id": 542,
+    "name": "College 542",
+    "rating": "2.9",
+    "fees": 57862,
+    "userReview": "0.8",
+    "featured": true
+  },
+  {
+    "id": 543,
+    "name": "College 543",
+    "rating": "4.9",
+    "fees": 20166,
+    "userReview": "4.9",
+    "featured": false
+  },
+  {
+    "id": 544,
+    "name": "College 544",
+    "rating": "1.4",
+    "fees": 50671,
+    "userReview": "2.0",
+    "featured": false
+  },
+  {
+    "id": 545,
+    "name": "College 545",
+    "rating": "3.7",
+    "fees": 24163,
+    "userReview": "0.2",
+    "featured": true
+  },
+  {
+    "id": 546,
+    "name": "College 546",
+    "rating": "3.3",
+    "fees": 42618,
+    "userReview": "4.3",
+    "featured": false
+  },
+  {
+    "id": 547,
+    "name": "College 547",
+    "rating": "2.9",
+    "fees": 25564,
+    "userReview": "3.9",
+    "featured": true
+  },
+  {
+    "id": 548,
+    "name": "College 548",
+    "rating": "1.6",
+    "fees": 24697,
+    "userReview": "3.6",
+    "featured": true
+  },
+  {
+    "id": 549,
+    "name": "College 549",
+    "rating": "1.3",
+    "fees": 28120,
+    "userReview": "3.6",
+    "featured": true
+  },
+  {
+    "id": 550,
+    "name": "College 550",
+    "rating": "0.4",
+    "fees": 20213,
+    "userReview": "0.6",
+    "featured": true
+  },
+  {
+    "id": 551,
+    "name": "College 551",
+    "rating": "0.6",
+    "fees": 21417,
+    "userReview": "1.9",
+    "featured": false
+  },
+  {
+    "id": 552,
+    "name": "College 552",
+    "rating": "0.5",
+    "fees": 43058,
+    "userReview": "1.8",
+    "featured": false
+  },
+  {
+    "id": 553,
+    "name": "College 553",
+    "rating": "3.5",
+    "fees": 29291,
+    "userReview": "4.6",
+    "featured": false
+  },
+  {
+    "id": 554,
+    "name": "College 554",
+    "rating": "3.1",
+    "fees": 58702,
+    "userReview": "1.1",
+    "featured": false
+  },
+  {
+    "id": 555,
+    "name": "College 555",
+    "rating": "0.0",
+    "fees": 32390,
+    "userReview": "0.9",
+    "featured": true
+  },
+  {
+    "id": 556,
+    "name": "College 556",
+    "rating": "1.2",
+    "fees": 55187,
+    "userReview": "1.6",
+    "featured": true
+  },
+  {
+    "id": 557,
+    "name": "College 557",
+    "rating": "1.5",
+    "fees": 39753,
+    "userReview": "2.5",
+    "featured": false
+  },
+  {
+    "id": 558,
+    "name": "College 558",
+    "rating": "4.1",
+    "fees": 13183,
+    "userReview": "3.5",
+    "featured": false
+  },
+  {
+    "id": 559,
+    "name": "College 559",
+    "rating": "2.7",
+    "fees": 16815,
+    "userReview": "1.3",
+    "featured": true
+  },
+  {
+    "id": 560,
+    "name": "College 560",
+    "rating": "1.4",
+    "fees": 30528,
+    "userReview": "0.9",
+    "featured": false
+  },
+  {
+    "id": 561,
+    "name": "College 561",
+    "rating": "3.8",
+    "fees": 16763,
+    "userReview": "4.1",
+    "featured": false
+  },
+  {
+    "id": 562,
+    "name": "College 562",
+    "rating": "1.7",
+    "fees": 23123,
+    "userReview": "2.7",
+    "featured": false
+  },
+  {
+    "id": 563,
+    "name": "College 563",
+    "rating": "0.9",
+    "fees": 55144,
+    "userReview": "1.9",
+    "featured": true
+  },
+  {
+    "id": 564,
+    "name": "College 564",
+    "rating": "3.5",
+    "fees": 10912,
+    "userReview": "1.8",
+    "featured": false
+  },
+  {
+    "id": 565,
+    "name": "College 565",
+    "rating": "2.9",
+    "fees": 38101,
+    "userReview": "4.7",
+    "featured": true
+  },
+  {
+    "id": 566,
+    "name": "College 566",
+    "rating": "1.6",
+    "fees": 15888,
+    "userReview": "2.6",
+    "featured": false
+  },
+  {
+    "id": 567,
+    "name": "College 567",
+    "rating": "0.7",
+    "fees": 45068,
+    "userReview": "1.6",
+    "featured": true
+  },
+  {
+    "id": 568,
+    "name": "College 568",
+    "rating": "2.2",
+    "fees": 26753,
+    "userReview": "4.4",
+    "featured": true
+  },
+  {
+    "id": 569,
+    "name": "College 569",
+    "rating": "4.5",
+    "fees": 47892,
+    "userReview": "3.4",
+    "featured": true
+  },
+  {
+    "id": 570,
+    "name": "College 570",
+    "rating": "4.5",
+    "fees": 39191,
+    "userReview": "3.4",
+    "featured": true
+  },
+  {
+    "id": 571,
+    "name": "College 571",
+    "rating": "4.3",
+    "fees": 38920,
+    "userReview": "4.6",
+    "featured": true
+  },
+  {
+    "id": 572,
+    "name": "College 572",
+    "rating": "1.6",
+    "fees": 56518,
+    "userReview": "3.7",
+    "featured": false
+  },
+  {
+    "id": 573,
+    "name": "College 573",
+    "rating": "1.3",
+    "fees": 35182,
+    "userReview": "4.4",
+    "featured": true
+  },
+  {
+    "id": 574,
+    "name": "College 574",
+    "rating": "1.2",
+    "fees": 27617,
+    "userReview": "2.9",
+    "featured": false
+  },
+  {
+    "id": 575,
+    "name": "College 575",
+    "rating": "2.9",
+    "fees": 31762,
+    "userReview": "3.1",
+    "featured": false
+  },
+  {
+    "id": 576,
+    "name": "College 576",
+    "rating": "0.9",
+    "fees": 35559,
+    "userReview": "0.7",
+    "featured": false
+  },
+  {
+    "id": 577,
+    "name": "College 577",
+    "rating": "4.0",
+    "fees": 24475,
+    "userReview": "2.3",
+    "featured": false
+  },
+  {
+    "id": 578,
+    "name": "College 578",
+    "rating": "2.1",
+    "fees": 58619,
+    "userReview": "3.4",
+    "featured": false
+  },
+  {
+    "id": 579,
+    "name": "College 579",
+    "rating": "4.1",
+    "fees": 18520,
+    "userReview": "3.5",
+    "featured": false
+  },
+  {
+    "id": 580,
+    "name": "College 580",
+    "rating": "1.9",
+    "fees": 27913,
+    "userReview": "2.4",
+    "featured": false
+  },
+  {
+    "id": 581,
+    "name": "College 581",
+    "rating": "1.0",
+    "fees": 42155,
+    "userReview": "1.4",
+    "featured": false
+  },
+  {
+    "id": 582,
+    "name": "College 582",
+    "rating": "1.6",
+    "fees": 14294,
+    "userReview": "4.2",
+    "featured": false
+  },
+  {
+    "id": 583,
+    "name": "College 583",
+    "rating": "0.8",
+    "fees": 28816,
+    "userReview": "4.8",
+    "featured": true
+  },
+  {
+    "id": 584,
+    "name": "College 584",
+    "rating": "3.2",
+    "fees": 42549,
+    "userReview": "2.7",
+    "featured": false
+  },
+  {
+    "id": 585,
+    "name": "College 585",
+    "rating": "0.1",
+    "fees": 28590,
+    "userReview": "4.5",
+    "featured": true
+  },
+  {
+    "id": 586,
+    "name": "College 586",
+    "rating": "1.8",
+    "fees": 11714,
+    "userReview": "3.1",
+    "featured": true
+  },
+  {
+    "id": 587,
+    "name": "College 587",
+    "rating": "3.0",
+    "fees": 27048,
+    "userReview": "3.9",
+    "featured": true
+  },
+  {
+    "id": 588,
+    "name": "College 588",
+    "rating": "1.6",
+    "fees": 59388,
+    "userReview": "1.5",
+    "featured": false
+  },
+  {
+    "id": 589,
+    "name": "College 589",
+    "rating": "4.9",
+    "fees": 14246,
+    "userReview": "4.5",
+    "featured": true
+  },
+  {
+    "id": 590,
+    "name": "College 590",
+    "rating": "1.4",
+    "fees": 22483,
+    "userReview": "3.7",
+    "featured": true
+  },
+  {
+    "id": 591,
+    "name": "College 591",
+    "rating": "4.5",
+    "fees": 22611,
+    "userReview": "3.2",
+    "featured": false
+  },
+  {
+    "id": 592,
+    "name": "College 592",
+    "rating": "0.2",
+    "fees": 22219,
+    "userReview": "0.5",
+    "featured": false
+  },
+  {
+    "id": 593,
+    "name": "College 593",
+    "rating": "0.1",
+    "fees": 51377,
+    "userReview": "0.4",
+    "featured": false
+  },
+  {
+    "id": 594,
+    "name": "College 594",
+    "rating": "4.9",
+    "fees": 43861,
+    "userReview": "5.0",
+    "featured": true
+  },
+  {
+    "id": 595,
+    "name": "College 595",
+    "rating": "3.5",
+    "fees": 29163,
+    "userReview": "4.4",
+    "featured": false
+  },
+  {
+    "id": 596,
+    "name": "College 596",
+    "rating": "4.5",
+    "fees": 16200,
+    "userReview": "0.5",
+    "featured": true
+  },
+  {
+    "id": 597,
+    "name": "College 597",
+    "rating": "3.2",
+    "fees": 16291,
+    "userReview": "1.9",
+    "featured": true
+  },
+  {
+    "id": 598,
+    "name": "College 598",
+    "rating": "4.9",
+    "fees": 58778,
+    "userReview": "1.0",
+    "featured": true
+  },
+  {
+    "id": 599,
+    "name": "College 599",
+    "rating": "2.7",
+    "fees": 56199,
+    "userReview": "3.2",
+    "featured": true
+  },
+  {
+    "id": 600,
+    "name": "College 600",
+    "rating": "2.8",
+    "fees": 48344,
+    "userReview": "1.5",
+    "featured": true
+  },
+  {
+    "id": 601,
+    "name": "College 601",
+    "rating": "1.2",
+    "fees": 11976,
+    "userReview": "4.7",
+    "featured": true
+  },
+  {
+    "id": 602,
+    "name": "College 602",
+    "rating": "4.5",
+    "fees": 25070,
+    "userReview": "1.3",
+    "featured": false
+  },
+  {
+    "id": 603,
+    "name": "College 603",
+    "rating": "4.4",
+    "fees": 41035,
+    "userReview": "2.6",
+    "featured": true
+  },
+  {
+    "id": 604,
+    "name": "College 604",
+    "rating": "3.9",
+    "fees": 45319,
+    "userReview": "2.8",
+    "featured": true
+  },
+  {
+    "id": 605,
+    "name": "College 605",
+    "rating": "3.6",
+    "fees": 47108,
+    "userReview": "4.3",
+    "featured": false
+  },
+  {
+    "id": 606,
+    "name": "College 606",
+    "rating": "2.9",
+    "fees": 33038,
+    "userReview": "2.4",
+    "featured": false
+  },
+  {
+    "id": 607,
+    "name": "College 607",
+    "rating": "2.9",
+    "fees": 35013,
+    "userReview": "0.7",
+    "featured": false
+  },
+  {
+    "id": 608,
+    "name": "College 608",
+    "rating": "1.1",
+    "fees": 28059,
+    "userReview": "2.0",
+    "featured": true
+  },
+  {
+    "id": 609,
+    "name": "College 609",
+    "rating": "4.6",
+    "fees": 22330,
+    "userReview": "3.7",
+    "featured": true
+  },
+  {
+    "id": 610,
+    "name": "College 610",
+    "rating": "4.2",
+    "fees": 22346,
+    "userReview": "3.3",
+    "featured": true
+  },
+  {
+    "id": 611,
+    "name": "College 611",
+    "rating": "0.3",
+    "fees": 57198,
+    "userReview": "1.7",
+    "featured": false
+  },
+  {
+    "id": 612,
+    "name": "College 612",
+    "rating": "2.7",
+    "fees": 23212,
+    "userReview": "3.9",
+    "featured": false
+  },
+  {
+    "id": 613,
+    "name": "College 613",
+    "rating": "3.5",
+    "fees": 12864,
+    "userReview": "2.6",
+    "featured": false
+  },
+  {
+    "id": 614,
+    "name": "College 614",
+    "rating": "3.0",
+    "fees": 45837,
+    "userReview": "1.5",
+    "featured": true
+  },
+  {
+    "id": 615,
+    "name": "College 615",
+    "rating": "2.1",
+    "fees": 14778,
+    "userReview": "0.4",
+    "featured": false
+  },
+  {
+    "id": 616,
+    "name": "College 616",
+    "rating": "3.3",
+    "fees": 32508,
+    "userReview": "4.8",
+    "featured": true
+  },
+  {
+    "id": 617,
+    "name": "College 617",
+    "rating": "4.2",
+    "fees": 43049,
+    "userReview": "1.6",
+    "featured": false
+  },
+  {
+    "id": 618,
+    "name": "College 618",
+    "rating": "3.2",
+    "fees": 16690,
+    "userReview": "3.9",
+    "featured": true
+  },
+  {
+    "id": 619,
+    "name": "College 619",
+    "rating": "3.2",
+    "fees": 52244,
+    "userReview": "2.1",
+    "featured": false
+  },
+  {
+    "id": 620,
+    "name": "College 620",
+    "rating": "0.4",
+    "fees": 20014,
+    "userReview": "2.6",
+    "featured": true
+  },
+  {
+    "id": 621,
+    "name": "College 621",
+    "rating": "0.9",
+    "fees": 40951,
+    "userReview": "2.2",
+    "featured": true
+  },
+  {
+    "id": 622,
+    "name": "College 622",
+    "rating": "4.1",
+    "fees": 43555,
+    "userReview": "1.8",
+    "featured": false
+  },
+  {
+    "id": 623,
+    "name": "College 623",
+    "rating": "0.6",
+    "fees": 51057,
+    "userReview": "4.1",
+    "featured": true
+  },
+  {
+    "id": 624,
+    "name": "College 624",
+    "rating": "2.7",
+    "fees": 13593,
+    "userReview": "3.6",
+    "featured": true
+  },
+  {
+    "id": 625,
+    "name": "College 625",
+    "rating": "4.2",
+    "fees": 21308,
+    "userReview": "0.1",
+    "featured": false
+  },
+  {
+    "id": 626,
+    "name": "College 626",
+    "rating": "1.8",
+    "fees": 20291,
+    "userReview": "1.1",
+    "featured": false
+  },
+  {
+    "id": 627,
+    "name": "College 627",
+    "rating": "1.9",
+    "fees": 14439,
+    "userReview": "1.2",
+    "featured": true
+  },
+  {
+    "id": 628,
+    "name": "College 628",
+    "rating": "2.2",
+    "fees": 33941,
+    "userReview": "4.7",
+    "featured": true
+  },
+  {
+    "id": 629,
+    "name": "College 629",
+    "rating": "1.0",
+    "fees": 49187,
+    "userReview": "4.1",
+    "featured": false
+  },
+  {
+    "id": 630,
+    "name": "College 630",
+    "rating": "3.1",
+    "fees": 39924,
+    "userReview": "3.1",
+    "featured": false
+  },
+  {
+    "id": 631,
+    "name": "College 631",
+    "rating": "1.0",
+    "fees": 27364,
+    "userReview": "5.0",
+    "featured": true
+  },
+  {
+    "id": 632,
+    "name": "College 632",
+    "rating": "2.3",
+    "fees": 53628,
+    "userReview": "2.1",
+    "featured": true
+  },
+  {
+    "id": 633,
+    "name": "College 633",
+    "rating": "0.4",
+    "fees": 43107,
+    "userReview": "0.9",
+    "featured": false
+  },
+  {
+    "id": 634,
+    "name": "College 634",
+    "rating": "2.8",
+    "fees": 22150,
+    "userReview": "3.4",
+    "featured": true
+  },
+  {
+    "id": 635,
+    "name": "College 635",
+    "rating": "2.8",
+    "fees": 20430,
+    "userReview": "4.0",
+    "featured": false
+  },
+  {
+    "id": 636,
+    "name": "College 636",
+    "rating": "3.3",
+    "fees": 43425,
+    "userReview": "4.0",
+    "featured": true
+  },
+  {
+    "id": 637,
+    "name": "College 637",
+    "rating": "5.0",
+    "fees": 10813,
+    "userReview": "3.9",
+    "featured": true
+  },
+  {
+    "id": 638,
+    "name": "College 638",
+    "rating": "4.6",
+    "fees": 48014,
+    "userReview": "4.1",
+    "featured": false
+  },
+  {
+    "id": 639,
+    "name": "College 639",
+    "rating": "1.3",
+    "fees": 28862,
+    "userReview": "4.0",
+    "featured": false
+  },
+  {
+    "id": 640,
+    "name": "College 640",
+    "rating": "0.5",
+    "fees": 58408,
+    "userReview": "4.5",
+    "featured": true
+  },
+  {
+    "id": 641,
+    "name": "College 641",
+    "rating": "0.4",
+    "fees": 57241,
+    "userReview": "3.9",
+    "featured": false
+  },
+  {
+    "id": 642,
+    "name": "College 642",
+    "rating": "3.6",
+    "fees": 53274,
+    "userReview": "0.3",
+    "featured": true
+  },
+  {
+    "id": 643,
+    "name": "College 643",
+    "rating": "1.6",
+    "fees": 22272,
+    "userReview": "3.6",
+    "featured": true
+  },
+  {
+    "id": 644,
+    "name": "College 644",
+    "rating": "1.2",
+    "fees": 21667,
+    "userReview": "1.2",
+    "featured": false
+  },
+  {
+    "id": 645,
+    "name": "College 645",
+    "rating": "2.9",
+    "fees": 48478,
+    "userReview": "3.8",
+    "featured": false
+  },
+  {
+    "id": 646,
+    "name": "College 646",
+    "rating": "2.0",
+    "fees": 37943,
+    "userReview": "1.9",
+    "featured": true
+  },
+  {
+    "id": 647,
+    "name": "College 647",
+    "rating": "4.0",
+    "fees": 28114,
+    "userReview": "3.0",
+    "featured": true
+  },
+  {
+    "id": 648,
+    "name": "College 648",
+    "rating": "2.0",
+    "fees": 37413,
+    "userReview": "2.9",
+    "featured": false
+  },
+  {
+    "id": 649,
+    "name": "College 649",
+    "rating": "3.6",
+    "fees": 54010,
+    "userReview": "4.4",
+    "featured": true
+  },
+  {
+    "id": 650,
+    "name": "College 650",
+    "rating": "3.2",
+    "fees": 25334,
+    "userReview": "1.9",
+    "featured": true
+  },
+  {
+    "id": 651,
+    "name": "College 651",
+    "rating": "4.0",
+    "fees": 11259,
+    "userReview": "2.8",
+    "featured": false
+  },
+  {
+    "id": 652,
+    "name": "College 652",
+    "rating": "3.6",
+    "fees": 32211,
+    "userReview": "0.9",
+    "featured": false
+  },
+  {
+    "id": 653,
+    "name": "College 653",
+    "rating": "1.5",
+    "fees": 11644,
+    "userReview": "2.6",
+    "featured": false
+  },
+  {
+    "id": 654,
+    "name": "College 654",
+    "rating": "0.5",
+    "fees": 33628,
+    "userReview": "1.9",
+    "featured": true
+  },
+  {
+    "id": 655,
+    "name": "College 655",
+    "rating": "1.1",
+    "fees": 29165,
+    "userReview": "0.1",
+    "featured": true
+  },
+  {
+    "id": 656,
+    "name": "College 656",
+    "rating": "3.5",
+    "fees": 21533,
+    "userReview": "4.9",
+    "featured": true
+  },
+  {
+    "id": 657,
+    "name": "College 657",
+    "rating": "1.1",
+    "fees": 32009,
+    "userReview": "2.1",
+    "featured": false
+  },
+  {
+    "id": 658,
+    "name": "College 658",
+    "rating": "3.8",
+    "fees": 28184,
+    "userReview": "1.8",
+    "featured": false
+  },
+  {
+    "id": 659,
+    "name": "College 659",
+    "rating": "4.4",
+    "fees": 25855,
+    "userReview": "2.7",
+    "featured": false
+  },
+  {
+    "id": 660,
+    "name": "College 660",
+    "rating": "1.7",
+    "fees": 19612,
+    "userReview": "3.1",
+    "featured": false
+  },
+  {
+    "id": 661,
+    "name": "College 661",
+    "rating": "2.5",
+    "fees": 35491,
+    "userReview": "4.4",
+    "featured": true
+  },
+  {
+    "id": 662,
+    "name": "College 662",
+    "rating": "1.3",
+    "fees": 45078,
+    "userReview": "0.3",
+    "featured": false
+  },
+  {
+    "id": 663,
+    "name": "College 663",
+    "rating": "0.1",
+    "fees": 46520,
+    "userReview": "3.9",
+    "featured": false
+  },
+  {
+    "id": 664,
+    "name": "College 664",
+    "rating": "3.2",
+    "fees": 17581,
+    "userReview": "2.9",
+    "featured": false
+  },
+  {
+    "id": 665,
+    "name": "College 665",
+    "rating": "1.0",
+    "fees": 15603,
+    "userReview": "0.8",
+    "featured": false
+  },
+  {
+    "id": 666,
+    "name": "College 666",
+    "rating": "4.5",
+    "fees": 15026,
+    "userReview": "1.9",
+    "featured": false
+  },
+  {
+    "id": 667,
+    "name": "College 667",
+    "rating": "3.5",
+    "fees": 54279,
+    "userReview": "1.0",
+    "featured": false
+  },
+  {
+    "id": 668,
+    "name": "College 668",
+    "rating": "3.7",
+    "fees": 11258,
+    "userReview": "0.6",
+    "featured": true
+  },
+  {
+    "id": 669,
+    "name": "College 669",
+    "rating": "3.0",
+    "fees": 27650,
+    "userReview": "1.5",
+    "featured": false
+  },
+  {
+    "id": 670,
+    "name": "College 670",
+    "rating": "3.7",
+    "fees": 24813,
+    "userReview": "2.1",
+    "featured": false
+  },
+  {
+    "id": 671,
+    "name": "College 671",
+    "rating": "2.8",
+    "fees": 33523,
+    "userReview": "0.8",
+    "featured": true
+  },
+  {
+    "id": 672,
+    "name": "College 672",
+    "rating": "0.3",
+    "fees": 26988,
+    "userReview": "4.3",
+    "featured": false
+  },
+  {
+    "id": 673,
+    "name": "College 673",
+    "rating": "2.6",
+    "fees": 37234,
+    "userReview": "3.9",
+    "featured": true
+  },
+  {
+    "id": 674,
+    "name": "College 674",
+    "rating": "4.8",
+    "fees": 58719,
+    "userReview": "1.5",
+    "featured": false
+  },
+  {
+    "id": 675,
+    "name": "College 675",
+    "rating": "1.5",
+    "fees": 45291,
+    "userReview": "1.1",
+    "featured": false
+  },
+  {
+    "id": 676,
+    "name": "College 676",
+    "rating": "2.5",
+    "fees": 36404,
+    "userReview": "2.5",
+    "featured": true
+  },
+  {
+    "id": 677,
+    "name": "College 677",
+    "rating": "1.3",
+    "fees": 53471,
+    "userReview": "4.2",
+    "featured": true
+  },
+  {
+    "id": 678,
+    "name": "College 678",
+    "rating": "0.1",
+    "fees": 39660,
+    "userReview": "1.4",
+    "featured": true
+  },
+  {
+    "id": 679,
+    "name": "College 679",
+    "rating": "4.2",
+    "fees": 46243,
+    "userReview": "1.4",
+    "featured": false
+  },
+  {
+    "id": 680,
+    "name": "College 680",
+    "rating": "3.2",
+    "fees": 10583,
+    "userReview": "0.5",
+    "featured": false
+  },
+  {
+    "id": 681,
+    "name": "College 681",
+    "rating": "3.4",
+    "fees": 45554,
+    "userReview": "3.5",
+    "featured": true
+  },
+  {
+    "id": 682,
+    "name": "College 682",
+    "rating": "4.7",
+    "fees": 13375,
+    "userReview": "2.3",
+    "featured": true
+  },
+  {
+    "id": 683,
+    "name": "College 683",
+    "rating": "3.6",
+    "fees": 55558,
+    "userReview": "3.6",
+    "featured": false
+  },
+  {
+    "id": 684,
+    "name": "College 684",
+    "rating": "2.6",
+    "fees": 17572,
+    "userReview": "2.0",
+    "featured": true
+  },
+  {
+    "id": 685,
+    "name": "College 685",
+    "rating": "4.3",
+    "fees": 30469,
+    "userReview": "4.9",
+    "featured": false
+  },
+  {
+    "id": 686,
+    "name": "College 686",
+    "rating": "1.5",
+    "fees": 16877,
+    "userReview": "0.7",
+    "featured": true
+  },
+  {
+    "id": 687,
+    "name": "College 687",
+    "rating": "3.0",
+    "fees": 55726,
+    "userReview": "1.8",
+    "featured": true
+  },
+  {
+    "id": 688,
+    "name": "College 688",
+    "rating": "1.8",
+    "fees": 22566,
+    "userReview": "0.8",
+    "featured": true
+  },
+  {
+    "id": 689,
+    "name": "College 689",
+    "rating": "0.2",
+    "fees": 25721,
+    "userReview": "1.0",
+    "featured": true
+  },
+  {
+    "id": 690,
+    "name": "College 690",
+    "rating": "2.6",
+    "fees": 45734,
+    "userReview": "2.6",
+    "featured": false
+  },
+  {
+    "id": 691,
+    "name": "College 691",
+    "rating": "1.1",
+    "fees": 25541,
+    "userReview": "2.4",
+    "featured": true
+  },
+  {
+    "id": 692,
+    "name": "College 692",
+    "rating": "1.8",
+    "fees": 16620,
+    "userReview": "4.0",
+    "featured": false
+  },
+  {
+    "id": 693,
+    "name": "College 693",
+    "rating": "1.9",
+    "fees": 30265,
+    "userReview": "1.7",
+    "featured": false
+  },
+  {
+    "id": 694,
+    "name": "College 694",
+    "rating": "4.8",
+    "fees": 38468,
+    "userReview": "1.1",
+    "featured": true
+  },
+  {
+    "id": 695,
+    "name": "College 695",
+    "rating": "3.8",
+    "fees": 46352,
+    "userReview": "4.3",
+    "featured": false
+  },
+  {
+    "id": 696,
+    "name": "College 696",
+    "rating": "3.7",
+    "fees": 27063,
+    "userReview": "3.3",
+    "featured": false
+  },
+  {
+    "id": 697,
+    "name": "College 697",
+    "rating": "0.7",
+    "fees": 31015,
+    "userReview": "2.7",
+    "featured": false
+  },
+  {
+    "id": 698,
+    "name": "College 698",
+    "rating": "0.7",
+    "fees": 43211,
+    "userReview": "1.7",
+    "featured": false
+  },
+  {
+    "id": 699,
+    "name": "College 699",
+    "rating": "2.9",
+    "fees": 33285,
+    "userReview": "3.9",
+    "featured": false
+  },
+  {
+    "id": 700,
+    "name": "College 700",
+    "rating": "3.5",
+    "fees": 27036,
+    "userReview": "3.0",
+    "featured": false
+  },
+  {
+    "id": 701,
+    "name": "College 701",
+    "rating": "0.9",
+    "fees": 18773,
+    "userReview": "2.7",
+    "featured": false
+  },
+  {
+    "id": 702,
+    "name": "College 702",
+    "rating": "2.1",
+    "fees": 24188,
+    "userReview": "3.4",
+    "featured": false
+  },
+  {
+    "id": 703,
+    "name": "College 703",
+    "rating": "3.4",
+    "fees": 22208,
+    "userReview": "1.5",
+    "featured": true
+  },
+  {
+    "id": 704,
+    "name": "College 704",
+    "rating": "1.8",
+    "fees": 20054,
+    "userReview": "0.5",
+    "featured": true
+  },
+  {
+    "id": 705,
+    "name": "College 705",
+    "rating": "3.3",
+    "fees": 56940,
+    "userReview": "3.0",
+    "featured": false
+  },
+  {
+    "id": 706,
+    "name": "College 706",
+    "rating": "1.7",
+    "fees": 21782,
+    "userReview": "4.1",
+    "featured": false
+  },
+  {
+    "id": 707,
+    "name": "College 707",
+    "rating": "1.9",
+    "fees": 21544,
+    "userReview": "1.7",
+    "featured": false
+  },
+  {
+    "id": 708,
+    "name": "College 708",
+    "rating": "5.0",
+    "fees": 49429,
+    "userReview": "4.9",
+    "featured": false
+  },
+  {
+    "id": 709,
+    "name": "College 709",
+    "rating": "4.8",
+    "fees": 13335,
+    "userReview": "2.9",
+    "featured": true
+  },
+  {
+    "id": 710,
+    "name": "College 710",
+    "rating": "0.3",
+    "fees": 20314,
+    "userReview": "1.7",
+    "featured": true
+  },
+  {
+    "id": 711,
+    "name": "College 711",
+    "rating": "0.7",
+    "fees": 13645,
+    "userReview": "2.1",
+    "featured": false
+  },
+  {
+    "id": 712,
+    "name": "College 712",
+    "rating": "4.7",
+    "fees": 43874,
+    "userReview": "0.6",
+    "featured": false
+  },
+  {
+    "id": 713,
+    "name": "College 713",
+    "rating": "2.3",
+    "fees": 59951,
+    "userReview": "4.9",
+    "featured": false
+  },
+  {
+    "id": 714,
+    "name": "College 714",
+    "rating": "0.2",
+    "fees": 41527,
+    "userReview": "1.4",
+    "featured": true
+  },
+  {
+    "id": 715,
+    "name": "College 715",
+    "rating": "2.3",
+    "fees": 24508,
+    "userReview": "3.6",
+    "featured": true
+  },
+  {
+    "id": 716,
+    "name": "College 716",
+    "rating": "4.7",
+    "fees": 15369,
+    "userReview": "5.0",
+    "featured": false
+  },
+  {
+    "id": 717,
+    "name": "College 717",
+    "rating": "4.8",
+    "fees": 54460,
+    "userReview": "1.3",
+    "featured": false
+  },
+  {
+    "id": 718,
+    "name": "College 718",
+    "rating": "1.3",
+    "fees": 19824,
+    "userReview": "4.3",
+    "featured": false
+  },
+  {
+    "id": 719,
+    "name": "College 719",
+    "rating": "0.2",
+    "fees": 53530,
+    "userReview": "3.4",
+    "featured": false
+  },
+  {
+    "id": 720,
+    "name": "College 720",
+    "rating": "3.1",
+    "fees": 54303,
+    "userReview": "2.0",
+    "featured": true
+  },
+  {
+    "id": 721,
+    "name": "College 721",
+    "rating": "1.0",
+    "fees": 33828,
+    "userReview": "2.7",
+    "featured": false
+  },
+  {
+    "id": 722,
+    "name": "College 722",
+    "rating": "0.1",
+    "fees": 21372,
+    "userReview": "3.4",
+    "featured": false
+  },
+  {
+    "id": 723,
+    "name": "College 723",
+    "rating": "3.9",
+    "fees": 42398,
+    "userReview": "3.2",
+    "featured": true
+  },
+  {
+    "id": 724,
+    "name": "College 724",
+    "rating": "4.0",
+    "fees": 31582,
+    "userReview": "2.4",
+    "featured": true
+  },
+  {
+    "id": 725,
+    "name": "College 725",
+    "rating": "0.5",
+    "fees": 37870,
+    "userReview": "2.5",
+    "featured": false
+  },
+  {
+    "id": 726,
+    "name": "College 726",
+    "rating": "1.0",
+    "fees": 27975,
+    "userReview": "2.8",
+    "featured": true
+  },
+  {
+    "id": 727,
+    "name": "College 727",
+    "rating": "3.7",
+    "fees": 45443,
+    "userReview": "5.0",
+    "featured": false
+  },
+  {
+    "id": 728,
+    "name": "College 728",
+    "rating": "4.7",
+    "fees": 55437,
+    "userReview": "0.5",
+    "featured": false
+  },
+  {
+    "id": 729,
+    "name": "College 729",
+    "rating": "0.4",
+    "fees": 57990,
+    "userReview": "4.7",
+    "featured": true
+  },
+  {
+    "id": 730,
+    "name": "College 730",
+    "rating": "0.7",
+    "fees": 57417,
+    "userReview": "0.2",
+    "featured": true
+  },
+  {
+    "id": 731,
+    "name": "College 731",
+    "rating": "0.3",
+    "fees": 13590,
+    "userReview": "4.9",
+    "featured": true
+  },
+  {
+    "id": 732,
+    "name": "College 732",
+    "rating": "3.3",
+    "fees": 23732,
+    "userReview": "1.6",
+    "featured": true
+  },
+  {
+    "id": 733,
+    "name": "College 733",
+    "rating": "3.4",
+    "fees": 28659,
+    "userReview": "4.8",
+    "featured": true
+  },
+  {
+    "id": 734,
+    "name": "College 734",
+    "rating": "2.9",
+    "fees": 29764,
+    "userReview": "2.2",
+    "featured": false
+  },
+  {
+    "id": 735,
+    "name": "College 735",
+    "rating": "4.1",
+    "fees": 10567,
+    "userReview": "1.9",
+    "featured": false
+  },
+  {
+    "id": 736,
+    "name": "College 736",
+    "rating": "2.3",
+    "fees": 12282,
+    "userReview": "4.4",
+    "featured": false
+  },
+  {
+    "id": 737,
+    "name": "College 737",
+    "rating": "0.8",
+    "fees": 57150,
+    "userReview": "1.0",
+    "featured": false
+  },
+  {
+    "id": 738,
+    "name": "College 738",
+    "rating": "2.4",
+    "fees": 57106,
+    "userReview": "0.7",
+    "featured": false
+  },
+  {
+    "id": 739,
+    "name": "College 739",
+    "rating": "0.4",
+    "fees": 15566,
+    "userReview": "0.6",
+    "featured": true
+  },
+  {
+    "id": 740,
+    "name": "College 740",
+    "rating": "4.9",
+    "fees": 37742,
+    "userReview": "2.8",
+    "featured": false
+  },
+  {
+    "id": 741,
+    "name": "College 741",
+    "rating": "2.6",
+    "fees": 32102,
+    "userReview": "4.3",
+    "featured": false
+  },
+  {
+    "id": 742,
+    "name": "College 742",
+    "rating": "2.2",
+    "fees": 31157,
+    "userReview": "4.3",
+    "featured": true
+  },
+  {
+    "id": 743,
+    "name": "College 743",
+    "rating": "4.8",
+    "fees": 40284,
+    "userReview": "2.0",
+    "featured": true
+  },
+  {
+    "id": 744,
+    "name": "College 744",
+    "rating": "0.8",
+    "fees": 47061,
+    "userReview": "3.3",
+    "featured": false
+  },
+  {
+    "id": 745,
+    "name": "College 745",
+    "rating": "1.4",
+    "fees": 35883,
+    "userReview": "3.1",
+    "featured": false
+  },
+  {
+    "id": 746,
+    "name": "College 746",
+    "rating": "3.6",
+    "fees": 41690,
+    "userReview": "0.5",
+    "featured": false
+  },
+  {
+    "id": 747,
+    "name": "College 747",
+    "rating": "4.3",
+    "fees": 10910,
+    "userReview": "2.9",
+    "featured": true
+  },
+  {
+    "id": 748,
+    "name": "College 748",
+    "rating": "2.4",
+    "fees": 51040,
+    "userReview": "3.2",
+    "featured": false
+  },
+  {
+    "id": 749,
+    "name": "College 749",
+    "rating": "1.4",
+    "fees": 42712,
+    "userReview": "1.9",
+    "featured": true
+  },
+  {
+    "id": 750,
+    "name": "College 750",
+    "rating": "4.3",
+    "fees": 32660,
+    "userReview": "0.1",
+    "featured": false
+  },
+  {
+    "id": 751,
+    "name": "College 751",
+    "rating": "4.5",
+    "fees": 45566,
+    "userReview": "2.3",
+    "featured": false
+  },
+  {
+    "id": 752,
+    "name": "College 752",
+    "rating": "0.0",
+    "fees": 45602,
+    "userReview": "0.5",
+    "featured": true
+  },
+  {
+    "id": 753,
+    "name": "College 753",
+    "rating": "4.6",
+    "fees": 50708,
+    "userReview": "2.2",
+    "featured": false
+  },
+  {
+    "id": 754,
+    "name": "College 754",
+    "rating": "0.8",
+    "fees": 50104,
+    "userReview": "0.3",
+    "featured": true
+  },
+  {
+    "id": 755,
+    "name": "College 755",
+    "rating": "1.5",
+    "fees": 55375,
+    "userReview": "0.2",
+    "featured": false
+  },
+  {
+    "id": 756,
+    "name": "College 756",
+    "rating": "0.0",
+    "fees": 34356,
+    "userReview": "0.5",
+    "featured": true
+  },
+  {
+    "id": 757,
+    "name": "College 757",
+    "rating": "4.3",
+    "fees": 33612,
+    "userReview": "1.9",
+    "featured": false
+  },
+  {
+    "id": 758,
+    "name": "College 758",
+    "rating": "0.5",
+    "fees": 28240,
+    "userReview": "3.8",
+    "featured": false
+  },
+  {
+    "id": 759,
+    "name": "College 759",
+    "rating": "2.7",
+    "fees": 29230,
+    "userReview": "2.0",
+    "featured": true
+  },
+  {
+    "id": 760,
+    "name": "College 760",
+    "rating": "1.2",
+    "fees": 46206,
+    "userReview": "4.4",
+    "featured": true
+  },
+  {
+    "id": 761,
+    "name": "College 761",
+    "rating": "2.8",
+    "fees": 45695,
+    "userReview": "0.0",
+    "featured": false
+  },
+  {
+    "id": 762,
+    "name": "College 762",
+    "rating": "1.1",
+    "fees": 41377,
+    "userReview": "3.3",
+    "featured": true
+  },
+  {
+    "id": 763,
+    "name": "College 763",
+    "rating": "0.4",
+    "fees": 39757,
+    "userReview": "1.3",
+    "featured": false
+  },
+  {
+    "id": 764,
+    "name": "College 764",
+    "rating": "2.5",
+    "fees": 22536,
+    "userReview": "2.9",
+    "featured": true
+  },
+  {
+    "id": 765,
+    "name": "College 765",
+    "rating": "1.6",
+    "fees": 58464,
+    "userReview": "0.5",
+    "featured": false
+  },
+  {
+    "id": 766,
+    "name": "College 766",
+    "rating": "4.6",
+    "fees": 26723,
+    "userReview": "4.8",
+    "featured": true
+  },
+  {
+    "id": 767,
+    "name": "College 767",
+    "rating": "0.2",
+    "fees": 10575,
+    "userReview": "1.6",
+    "featured": true
+  },
+  {
+    "id": 768,
+    "name": "College 768",
+    "rating": "2.2",
+    "fees": 28534,
+    "userReview": "0.4",
+    "featured": false
+  },
+  {
+    "id": 769,
+    "name": "College 769",
+    "rating": "3.1",
+    "fees": 27311,
+    "userReview": "4.9",
+    "featured": false
+  },
+  {
+    "id": 770,
+    "name": "College 770",
+    "rating": "2.8",
+    "fees": 39204,
+    "userReview": "2.8",
+    "featured": false
+  },
+  {
+    "id": 771,
+    "name": "College 771",
+    "rating": "4.1",
+    "fees": 49607,
+    "userReview": "3.1",
+    "featured": false
+  },
+  {
+    "id": 772,
+    "name": "College 772",
+    "rating": "1.5",
+    "fees": 58345,
+    "userReview": "1.1",
+    "featured": true
+  },
+  {
+    "id": 773,
+    "name": "College 773",
+    "rating": "2.0",
+    "fees": 35391,
+    "userReview": "0.1",
+    "featured": false
+  },
+  {
+    "id": 774,
+    "name": "College 774",
+    "rating": "0.2",
+    "fees": 17429,
+    "userReview": "1.0",
+    "featured": true
+  },
+  {
+    "id": 775,
+    "name": "College 775",
+    "rating": "1.8",
+    "fees": 13698,
+    "userReview": "2.4",
+    "featured": false
+  },
+  {
+    "id": 776,
+    "name": "College 776",
+    "rating": "2.1",
+    "fees": 17734,
+    "userReview": "3.2",
+    "featured": true
+  },
+  {
+    "id": 777,
+    "name": "College 777",
+    "rating": "1.0",
+    "fees": 58948,
+    "userReview": "0.6",
+    "featured": true
+  },
+  {
+    "id": 778,
+    "name": "College 778",
+    "rating": "1.3",
+    "fees": 32052,
+    "userReview": "4.2",
+    "featured": true
+  },
+  {
+    "id": 779,
+    "name": "College 779",
+    "rating": "0.6",
+    "fees": 21406,
+    "userReview": "4.0",
+    "featured": true
+  },
+  {
+    "id": 780,
+    "name": "College 780",
+    "rating": "2.7",
+    "fees": 21428,
+    "userReview": "0.4",
+    "featured": true
+  },
+  {
+    "id": 781,
+    "name": "College 781",
+    "rating": "2.4",
+    "fees": 13546,
+    "userReview": "0.1",
+    "featured": true
+  },
+  {
+    "id": 782,
+    "name": "College 782",
+    "rating": "3.3",
+    "fees": 18259,
+    "userReview": "5.0",
+    "featured": true
+  },
+  {
+    "id": 783,
+    "name": "College 783",
+    "rating": "2.4",
+    "fees": 40891,
+    "userReview": "3.1",
+    "featured": false
+  },
+  {
+    "id": 784,
+    "name": "College 784",
+    "rating": "4.3",
+    "fees": 42008,
+    "userReview": "2.9",
+    "featured": true
+  },
+  {
+    "id": 785,
+    "name": "College 785",
+    "rating": "4.2",
+    "fees": 12405,
+    "userReview": "2.4",
+    "featured": false
+  },
+  {
+    "id": 786,
+    "name": "College 786",
+    "rating": "3.1",
+    "fees": 59921,
+    "userReview": "2.4",
+    "featured": false
+  },
+  {
+    "id": 787,
+    "name": "College 787",
+    "rating": "2.3",
+    "fees": 33970,
+    "userReview": "3.9",
+    "featured": false
+  },
+  {
+    "id": 788,
+    "name": "College 788",
+    "rating": "3.5",
+    "fees": 37887,
+    "userReview": "3.4",
+    "featured": false
+  },
+  {
+    "id": 789,
+    "name": "College 789",
+    "rating": "0.1",
+    "fees": 29612,
+    "userReview": "3.6",
+    "featured": true
+  },
+  {
+    "id": 790,
+    "name": "College 790",
+    "rating": "1.8",
+    "fees": 23027,
+    "userReview": "1.0",
+    "featured": true
+  },
+  {
+    "id": 791,
+    "name": "College 791",
+    "rating": "3.2",
+    "fees": 33470,
+    "userReview": "2.8",
+    "featured": false
+  },
+  {
+    "id": 792,
+    "name": "College 792",
+    "rating": "1.0",
+    "fees": 54767,
+    "userReview": "3.6",
+    "featured": true
+  },
+  {
+    "id": 793,
+    "name": "College 793",
+    "rating": "0.5",
+    "fees": 12941,
+    "userReview": "1.4",
+    "featured": true
+  },
+  {
+    "id": 794,
+    "name": "College 794",
+    "rating": "2.5",
+    "fees": 35121,
+    "userReview": "1.1",
+    "featured": true
+  },
+  {
+    "id": 795,
+    "name": "College 795",
+    "rating": "0.0",
+    "fees": 43769,
+    "userReview": "2.1",
+    "featured": false
+  },
+  {
+    "id": 796,
+    "name": "College 796",
+    "rating": "2.3",
+    "fees": 27891,
+    "userReview": "0.7",
+    "featured": true
+  },
+  {
+    "id": 797,
+    "name": "College 797",
+    "rating": "4.0",
+    "fees": 49945,
+    "userReview": "0.7",
+    "featured": true
+  },
+  {
+    "id": 798,
+    "name": "College 798",
+    "rating": "4.4",
+    "fees": 18698,
+    "userReview": "1.3",
+    "featured": false
+  },
+  {
+    "id": 799,
+    "name": "College 799",
+    "rating": "4.9",
+    "fees": 36820,
+    "userReview": "0.1",
+    "featured": false
+  },
+  {
+    "id": 800,
+    "name": "College 800",
+    "rating": "3.2",
+    "fees": 29391,
+    "userReview": "4.5",
+    "featured": false
+  },
+  {
+    "id": 801,
+    "name": "College 801",
+    "rating": "4.8",
+    "fees": 42425,
+    "userReview": "1.8",
+    "featured": true
+  },
+  {
+    "id": 802,
+    "name": "College 802",
+    "rating": "2.4",
+    "fees": 28412,
+    "userReview": "4.5",
+    "featured": true
+  },
+  {
+    "id": 803,
+    "name": "College 803",
+    "rating": "0.0",
+    "fees": 43518,
+    "userReview": "4.1",
+    "featured": true
+  },
+  {
+    "id": 804,
+    "name": "College 804",
+    "rating": "3.3",
+    "fees": 59283,
+    "userReview": "0.5",
+    "featured": false
+  },
+  {
+    "id": 805,
+    "name": "College 805",
+    "rating": "2.7",
+    "fees": 27757,
+    "userReview": "0.9",
+    "featured": true
+  },
+  {
+    "id": 806,
+    "name": "College 806",
+    "rating": "3.3",
+    "fees": 13320,
+    "userReview": "4.5",
+    "featured": true
+  },
+  {
+    "id": 807,
+    "name": "College 807",
+    "rating": "3.9",
+    "fees": 32553,
+    "userReview": "0.8",
+    "featured": false
+  },
+  {
+    "id": 808,
+    "name": "College 808",
+    "rating": "4.2",
+    "fees": 27336,
+    "userReview": "4.4",
+    "featured": true
+  },
+  {
+    "id": 809,
+    "name": "College 809",
+    "rating": "0.3",
+    "fees": 56760,
+    "userReview": "0.6",
+    "featured": false
+  },
+  {
+    "id": 810,
+    "name": "College 810",
+    "rating": "0.4",
+    "fees": 34419,
+    "userReview": "2.6",
+    "featured": true
+  },
+  {
+    "id": 811,
+    "name": "College 811",
+    "rating": "1.7",
+    "fees": 30967,
+    "userReview": "4.0",
+    "featured": false
+  },
+  {
+    "id": 812,
+    "name": "College 812",
+    "rating": "4.8",
+    "fees": 29396,
+    "userReview": "0.4",
+    "featured": false
+  },
+  {
+    "id": 813,
+    "name": "College 813",
+    "rating": "4.1",
+    "fees": 13330,
+    "userReview": "0.4",
+    "featured": false
+  },
+  {
+    "id": 814,
+    "name": "College 814",
+    "rating": "0.4",
+    "fees": 21476,
+    "userReview": "3.8",
+    "featured": true
+  },
+  {
+    "id": 815,
+    "name": "College 815",
+    "rating": "3.0",
+    "fees": 17907,
+    "userReview": "3.6",
+    "featured": false
+  },
+  {
+    "id": 816,
+    "name": "College 816",
+    "rating": "4.6",
+    "fees": 21407,
+    "userReview": "1.9",
+    "featured": true
+  },
+  {
+    "id": 817,
+    "name": "College 817",
+    "rating": "2.0",
+    "fees": 27235,
+    "userReview": "4.2",
+    "featured": false
+  },
+  {
+    "id": 818,
+    "name": "College 818",
+    "rating": "1.5",
+    "fees": 39565,
+    "userReview": "4.0",
+    "featured": false
+  },
+  {
+    "id": 819,
+    "name": "College 819",
+    "rating": "4.7",
+    "fees": 36988,
+    "userReview": "3.4",
+    "featured": true
+  },
+  {
+    "id": 820,
+    "name": "College 820",
+    "rating": "3.8",
+    "fees": 40509,
+    "userReview": "4.3",
+    "featured": true
+  },
+  {
+    "id": 821,
+    "name": "College 821",
+    "rating": "0.8",
+    "fees": 14173,
+    "userReview": "1.4",
+    "featured": false
+  },
+  {
+    "id": 822,
+    "name": "College 822",
+    "rating": "0.4",
+    "fees": 30058,
+    "userReview": "3.2",
+    "featured": false
+  },
+  {
+    "id": 823,
+    "name": "College 823",
+    "rating": "0.1",
+    "fees": 48052,
+    "userReview": "0.6",
+    "featured": true
+  },
+  {
+    "id": 824,
+    "name": "College 824",
+    "rating": "0.9",
+    "fees": 43864,
+    "userReview": "3.9",
+    "featured": false
+  },
+  {
+    "id": 825,
+    "name": "College 825",
+    "rating": "1.3",
+    "fees": 32253,
+    "userReview": "4.5",
+    "featured": true
+  },
+  {
+    "id": 826,
+    "name": "College 826",
+    "rating": "2.4",
+    "fees": 17197,
+    "userReview": "1.2",
+    "featured": true
+  },
+  {
+    "id": 827,
+    "name": "College 827",
+    "rating": "4.3",
+    "fees": 26999,
+    "userReview": "3.3",
+    "featured": true
+  },
+  {
+    "id": 828,
+    "name": "College 828",
+    "rating": "3.5",
+    "fees": 59484,
+    "userReview": "0.2",
+    "featured": true
+  },
+  {
+    "id": 829,
+    "name": "College 829",
+    "rating": "0.2",
+    "fees": 53219,
+    "userReview": "2.1",
+    "featured": true
+  },
+  {
+    "id": 830,
+    "name": "College 830",
+    "rating": "3.8",
+    "fees": 24773,
+    "userReview": "2.6",
+    "featured": false
+  },
+  {
+    "id": 831,
+    "name": "College 831",
+    "rating": "3.6",
+    "fees": 45095,
+    "userReview": "1.8",
+    "featured": false
+  },
+  {
+    "id": 832,
+    "name": "College 832",
+    "rating": "4.9",
+    "fees": 57281,
+    "userReview": "4.1",
+    "featured": false
+  },
+  {
+    "id": 833,
+    "name": "College 833",
+    "rating": "1.7",
+    "fees": 46912,
+    "userReview": "2.7",
+    "featured": true
+  },
+  {
+    "id": 834,
+    "name": "College 834",
+    "rating": "4.5",
+    "fees": 44145,
+    "userReview": "4.2",
+    "featured": true
+  },
+  {
+    "id": 835,
+    "name": "College 835",
+    "rating": "0.5",
+    "fees": 23270,
+    "userReview": "3.2",
+    "featured": true
+  },
+  {
+    "id": 836,
+    "name": "College 836",
+    "rating": "0.2",
+    "fees": 19234,
+    "userReview": "4.0",
+    "featured": false
+  },
+  {
+    "id": 837,
+    "name": "College 837",
+    "rating": "0.3",
+    "fees": 41573,
+    "userReview": "2.5",
+    "featured": true
+  },
+  {
+    "id": 838,
+    "name": "College 838",
+    "rating": "2.6",
+    "fees": 33193,
+    "userReview": "2.6",
+    "featured": false
+  },
+  {
+    "id": 839,
+    "name": "College 839",
+    "rating": "3.9",
+    "fees": 26408,
+    "userReview": "1.0",
+    "featured": false
+  },
+  {
+    "id": 840,
+    "name": "College 840",
+    "rating": "1.9",
+    "fees": 39581,
+    "userReview": "0.6",
+    "featured": false
+  },
+  {
+    "id": 841,
+    "name": "College 841",
+    "rating": "1.6",
+    "fees": 15570,
+    "userReview": "4.2",
+    "featured": true
+  },
+  {
+    "id": 842,
+    "name": "College 842",
+    "rating": "3.5",
+    "fees": 42177,
+    "userReview": "4.0",
+    "featured": true
+  },
+  {
+    "id": 843,
+    "name": "College 843",
+    "rating": "0.0",
+    "fees": 53759,
+    "userReview": "4.1",
+    "featured": false
+  },
+  {
+    "id": 844,
+    "name": "College 844",
+    "rating": "4.2",
+    "fees": 32526,
+    "userReview": "3.9",
+    "featured": false
+  },
+  {
+    "id": 845,
+    "name": "College 845",
+    "rating": "1.2",
+    "fees": 40086,
+    "userReview": "3.3",
+    "featured": false
+  },
+  {
+    "id": 846,
+    "name": "College 846",
+    "rating": "3.1",
+    "fees": 40628,
+    "userReview": "2.1",
+    "featured": true
+  },
+  {
+    "id": 847,
+    "name": "College 847",
+    "rating": "4.2",
+    "fees": 20489,
+    "userReview": "4.7",
+    "featured": true
+  },
+  {
+    "id": 848,
+    "name": "College 848",
+    "rating": "2.9",
+    "fees": 30586,
+    "userReview": "2.2",
+    "featured": true
+  },
+  {
+    "id": 849,
+    "name": "College 849",
+    "rating": "0.4",
+    "fees": 14031,
+    "userReview": "2.0",
+    "featured": false
+  },
+  {
+    "id": 850,
+    "name": "College 850",
+    "rating": "3.8",
+    "fees": 18190,
+    "userReview": "1.4",
+    "featured": false
+  },
+  {
+    "id": 851,
+    "name": "College 851",
+    "rating": "2.7",
+    "fees": 34260,
+    "userReview": "3.4",
+    "featured": false
+  },
+  {
+    "id": 852,
+    "name": "College 852",
+    "rating": "3.3",
+    "fees": 23343,
+    "userReview": "0.3",
+    "featured": false
+  },
+  {
+    "id": 853,
+    "name": "College 853",
+    "rating": "4.3",
+    "fees": 18364,
+    "userReview": "3.8",
+    "featured": true
+  },
+  {
+    "id": 854,
+    "name": "College 854",
+    "rating": "4.4",
+    "fees": 30100,
+    "userReview": "1.0",
+    "featured": false
+  },
+  {
+    "id": 855,
+    "name": "College 855",
+    "rating": "1.6",
+    "fees": 26706,
+    "userReview": "0.6",
+    "featured": true
+  },
+  {
+    "id": 856,
+    "name": "College 856",
+    "rating": "0.4",
+    "fees": 34162,
+    "userReview": "2.8",
+    "featured": false
+  },
+  {
+    "id": 857,
+    "name": "College 857",
+    "rating": "3.1",
+    "fees": 28501,
+    "userReview": "1.5",
+    "featured": false
+  },
+  {
+    "id": 858,
+    "name": "College 858",
+    "rating": "4.5",
+    "fees": 56622,
+    "userReview": "0.0",
+    "featured": false
+  },
+  {
+    "id": 859,
+    "name": "College 859",
+    "rating": "0.6",
+    "fees": 28707,
+    "userReview": "0.7",
+    "featured": true
+  },
+  {
+    "id": 860,
+    "name": "College 860",
+    "rating": "0.9",
+    "fees": 25979,
+    "userReview": "3.9",
+    "featured": false
+  },
+  {
+    "id": 861,
+    "name": "College 861",
+    "rating": "3.0",
+    "fees": 23922,
+    "userReview": "4.4",
+    "featured": true
+  },
+  {
+    "id": 862,
+    "name": "College 862",
+    "rating": "0.5",
+    "fees": 37982,
+    "userReview": "3.9",
+    "featured": false
+  },
+  {
+    "id": 863,
+    "name": "College 863",
+    "rating": "1.9",
+    "fees": 14050,
+    "userReview": "3.0",
+    "featured": false
+  },
+  {
+    "id": 864,
+    "name": "College 864",
+    "rating": "0.2",
+    "fees": 56675,
+    "userReview": "3.6",
+    "featured": true
+  },
+  {
+    "id": 865,
+    "name": "College 865",
+    "rating": "2.5",
+    "fees": 17332,
+    "userReview": "0.9",
+    "featured": true
+  },
+  {
+    "id": 866,
+    "name": "College 866",
+    "rating": "1.8",
+    "fees": 19669,
+    "userReview": "1.4",
+    "featured": true
+  },
+  {
+    "id": 867,
+    "name": "College 867",
+    "rating": "2.1",
+    "fees": 22681,
+    "userReview": "3.8",
+    "featured": false
+  },
+  {
+    "id": 868,
+    "name": "College 868",
+    "rating": "4.9",
+    "fees": 10806,
+    "userReview": "4.6",
+    "featured": true
+  },
+  {
+    "id": 869,
+    "name": "College 869",
+    "rating": "0.9",
+    "fees": 46290,
+    "userReview": "1.4",
+    "featured": false
+  },
+  {
+    "id": 870,
+    "name": "College 870",
+    "rating": "2.3",
+    "fees": 15240,
+    "userReview": "3.6",
+    "featured": false
+  },
+  {
+    "id": 871,
+    "name": "College 871",
+    "rating": "0.4",
+    "fees": 12304,
+    "userReview": "1.4",
+    "featured": true
+  },
+  {
+    "id": 872,
+    "name": "College 872",
+    "rating": "0.5",
+    "fees": 25445,
+    "userReview": "0.0",
+    "featured": true
+  },
+  {
+    "id": 873,
+    "name": "College 873",
+    "rating": "2.7",
+    "fees": 17480,
+    "userReview": "1.0",
+    "featured": true
+  },
+  {
+    "id": 874,
+    "name": "College 874",
+    "rating": "4.8",
+    "fees": 31706,
+    "userReview": "3.3",
+    "featured": true
+  },
+  {
+    "id": 875,
+    "name": "College 875",
+    "rating": "3.2",
+    "fees": 10395,
+    "userReview": "3.4",
+    "featured": false
+  },
+  {
+    "id": 876,
+    "name": "College 876",
+    "rating": "3.1",
+    "fees": 21728,
+    "userReview": "2.7",
+    "featured": true
+  },
+  {
+    "id": 877,
+    "name": "College 877",
+    "rating": "0.8",
+    "fees": 57634,
+    "userReview": "3.1",
+    "featured": false
+  },
+  {
+    "id": 878,
+    "name": "College 878",
+    "rating": "2.5",
+    "fees": 43176,
+    "userReview": "1.6",
+    "featured": false
+  },
+  {
+    "id": 879,
+    "name": "College 879",
+    "rating": "2.0",
+    "fees": 38215,
+    "userReview": "4.8",
+    "featured": true
+  },
+  {
+    "id": 880,
+    "name": "College 880",
+    "rating": "2.7",
+    "fees": 50693,
+    "userReview": "4.6",
+    "featured": true
+  },
+  {
+    "id": 881,
+    "name": "College 881",
+    "rating": "2.7",
+    "fees": 17771,
+    "userReview": "1.5",
+    "featured": false
+  },
+  {
+    "id": 882,
+    "name": "College 882",
+    "rating": "3.7",
+    "fees": 12458,
+    "userReview": "0.4",
+    "featured": false
+  },
+  {
+    "id": 883,
+    "name": "College 883",
+    "rating": "2.6",
+    "fees": 26377,
+    "userReview": "3.1",
+    "featured": false
+  },
+  {
+    "id": 884,
+    "name": "College 884",
+    "rating": "3.0",
+    "fees": 18608,
+    "userReview": "0.3",
+    "featured": false
+  },
+  {
+    "id": 885,
+    "name": "College 885",
+    "rating": "1.0",
+    "fees": 41781,
+    "userReview": "3.8",
+    "featured": false
+  },
+  {
+    "id": 886,
+    "name": "College 886",
+    "rating": "0.6",
+    "fees": 23974,
+    "userReview": "4.7",
+    "featured": true
+  },
+  {
+    "id": 887,
+    "name": "College 887",
+    "rating": "0.8",
+    "fees": 59062,
+    "userReview": "2.8",
+    "featured": false
+  },
+  {
+    "id": 888,
+    "name": "College 888",
+    "rating": "3.6",
+    "fees": 17497,
+    "userReview": "4.5",
+    "featured": true
+  },
+  {
+    "id": 889,
+    "name": "College 889",
+    "rating": "0.6",
+    "fees": 53935,
+    "userReview": "3.0",
+    "featured": false
+  },
+  {
+    "id": 890,
+    "name": "College 890",
+    "rating": "2.8",
+    "fees": 56827,
+    "userReview": "2.1",
+    "featured": true
+  },
+  {
+    "id": 891,
+    "name": "College 891",
+    "rating": "1.0",
+    "fees": 58278,
+    "userReview": "3.1",
+    "featured": true
+  },
+  {
+    "id": 892,
+    "name": "College 892",
+    "rating": "3.7",
+    "fees": 49693,
+    "userReview": "1.0",
+    "featured": false
+  },
+  {
+    "id": 893,
+    "name": "College 893",
+    "rating": "1.5",
+    "fees": 29883,
+    "userReview": "4.4",
+    "featured": true
+  },
+  {
+    "id": 894,
+    "name": "College 894",
+    "rating": "3.6",
+    "fees": 38479,
+    "userReview": "1.1",
+    "featured": true
+  },
+  {
+    "id": 895,
+    "name": "College 895",
+    "rating": "4.3",
+    "fees": 54321,
+    "userReview": "3.9",
+    "featured": false
+  },
+  {
+    "id": 896,
+    "name": "College 896",
+    "rating": "1.4",
+    "fees": 17056,
+    "userReview": "2.7",
+    "featured": true
+  },
+  {
+    "id": 897,
+    "name": "College 897",
+    "rating": "0.9",
+    "fees": 16207,
+    "userReview": "4.7",
+    "featured": false
+  },
+  {
+    "id": 898,
+    "name": "College 898",
+    "rating": "4.0",
+    "fees": 48737,
+    "userReview": "2.7",
+    "featured": true
+  },
+  {
+    "id": 899,
+    "name": "College 899",
+    "rating": "0.4",
+    "fees": 58672,
+    "userReview": "3.4",
+    "featured": true
+  },
+  {
+    "id": 900,
+    "name": "College 900",
+    "rating": "2.0",
+    "fees": 55621,
+    "userReview": "4.7",
+    "featured": true
+  },
+  {
+    "id": 901,
+    "name": "College 901",
+    "rating": "4.7",
+    "fees": 11412,
+    "userReview": "0.2",
+    "featured": false
+  },
+  {
+    "id": 902,
+    "name": "College 902",
+    "rating": "4.6",
+    "fees": 45646,
+    "userReview": "0.1",
+    "featured": false
+  },
+  {
+    "id": 903,
+    "name": "College 903",
+    "rating": "3.5",
+    "fees": 18691,
+    "userReview": "3.2",
+    "featured": true
+  },
+  {
+    "id": 904,
+    "name": "College 904",
+    "rating": "1.2",
+    "fees": 36148,
+    "userReview": "1.2",
+    "featured": false
+  },
+  {
+    "id": 905,
+    "name": "College 905",
+    "rating": "2.0",
+    "fees": 28663,
+    "userReview": "0.5",
+    "featured": true
+  },
+  {
+    "id": 906,
+    "name": "College 906",
+    "rating": "1.0",
+    "fees": 38448,
+    "userReview": "3.6",
+    "featured": true
+  },
+  {
+    "id": 907,
+    "name": "College 907",
+    "rating": "0.9",
+    "fees": 11015,
+    "userReview": "2.5",
+    "featured": false
+  },
+  {
+    "id": 908,
+    "name": "College 908",
+    "rating": "3.1",
+    "fees": 50068,
+    "userReview": "4.1",
+    "featured": false
+  },
+  {
+    "id": 909,
+    "name": "College 909",
+    "rating": "4.5",
+    "fees": 55990,
+    "userReview": "4.1",
+    "featured": false
+  },
+  {
+    "id": 910,
+    "name": "College 910",
+    "rating": "1.7",
+    "fees": 41638,
+    "userReview": "1.7",
+    "featured": false
+  },
+  {
+    "id": 911,
+    "name": "College 911",
+    "rating": "1.7",
+    "fees": 35996,
+    "userReview": "1.2",
+    "featured": false
+  },
+  {
+    "id": 912,
+    "name": "College 912",
+    "rating": "4.0",
+    "fees": 45879,
+    "userReview": "3.4",
+    "featured": true
+  },
+  {
+    "id": 913,
+    "name": "College 913",
+    "rating": "1.7",
+    "fees": 57804,
+    "userReview": "0.6",
+    "featured": true
+  },
+  {
+    "id": 914,
+    "name": "College 914",
+    "rating": "3.5",
+    "fees": 28565,
+    "userReview": "0.5",
+    "featured": false
+  },
+  {
+    "id": 915,
+    "name": "College 915",
+    "rating": "4.0",
+    "fees": 45731,
+    "userReview": "2.1",
+    "featured": false
+  },
+  {
+    "id": 916,
+    "name": "College 916",
+    "rating": "1.0",
+    "fees": 59600,
+    "userReview": "4.2",
+    "featured": false
+  },
+  {
+    "id": 917,
+    "name": "College 917",
+    "rating": "1.2",
+    "fees": 30240,
+    "userReview": "4.1",
+    "featured": true
+  },
+  {
+    "id": 918,
+    "name": "College 918",
+    "rating": "0.8",
+    "fees": 53685,
+    "userReview": "4.6",
+    "featured": false
+  },
+  {
+    "id": 919,
+    "name": "College 919",
+    "rating": "2.8",
+    "fees": 10681,
+    "userReview": "3.4",
+    "featured": true
+  },
+  {
+    "id": 920,
+    "name": "College 920",
+    "rating": "4.5",
+    "fees": 27562,
+    "userReview": "2.1",
+    "featured": true
+  },
+  {
+    "id": 921,
+    "name": "College 921",
+    "rating": "0.7",
+    "fees": 24591,
+    "userReview": "0.1",
+    "featured": false
+  },
+  {
+    "id": 922,
+    "name": "College 922",
+    "rating": "4.0",
+    "fees": 37250,
+    "userReview": "4.3",
+    "featured": true
+  },
+  {
+    "id": 923,
+    "name": "College 923",
+    "rating": "3.7",
+    "fees": 59907,
+    "userReview": "4.2",
+    "featured": false
+  },
+  {
+    "id": 924,
+    "name": "College 924",
+    "rating": "0.2",
+    "fees": 32270,
+    "userReview": "1.9",
+    "featured": true
+  },
+  {
+    "id": 925,
+    "name": "College 925",
+    "rating": "1.0",
+    "fees": 33056,
+    "userReview": "0.6",
+    "featured": false
+  },
+  {
+    "id": 926,
+    "name": "College 926",
+    "rating": "4.9",
+    "fees": 38282,
+    "userReview": "2.6",
+    "featured": false
+  },
+  {
+    "id": 927,
+    "name": "College 927",
+    "rating": "0.7",
+    "fees": 54132,
+    "userReview": "4.7",
+    "featured": true
+  },
+  {
+    "id": 928,
+    "name": "College 928",
+    "rating": "5.0",
+    "fees": 27333,
+    "userReview": "4.6",
+    "featured": true
+  },
+  {
+    "id": 929,
+    "name": "College 929",
+    "rating": "3.2",
+    "fees": 14521,
+    "userReview": "2.3",
+    "featured": true
+  },
+  {
+    "id": 930,
+    "name": "College 930",
+    "rating": "3.9",
+    "fees": 56317,
+    "userReview": "2.7",
+    "featured": false
+  },
+  {
+    "id": 931,
+    "name": "College 931",
+    "rating": "4.4",
+    "fees": 34852,
+    "userReview": "2.9",
+    "featured": true
+  },
+  {
+    "id": 932,
+    "name": "College 932",
+    "rating": "4.2",
+    "fees": 17559,
+    "userReview": "3.6",
+    "featured": true
+  },
+  {
+    "id": 933,
+    "name": "College 933",
+    "rating": "2.8",
+    "fees": 10912,
+    "userReview": "2.5",
+    "featured": false
+  },
+  {
+    "id": 934,
+    "name": "College 934",
+    "rating": "1.8",
+    "fees": 17023,
+    "userReview": "4.0",
+    "featured": false
+  },
+  {
+    "id": 935,
+    "name": "College 935",
+    "rating": "1.2",
+    "fees": 22834,
+    "userReview": "2.6",
+    "featured": true
+  },
+  {
+    "id": 936,
+    "name": "College 936",
+    "rating": "0.6",
+    "fees": 27968,
+    "userReview": "1.8",
+    "featured": true
+  },
+  {
+    "id": 937,
+    "name": "College 937",
+    "rating": "4.4",
+    "fees": 41151,
+    "userReview": "4.7",
+    "featured": false
+  },
+  {
+    "id": 938,
+    "name": "College 938",
+    "rating": "1.9",
+    "fees": 30552,
+    "userReview": "3.7",
+    "featured": true
+  },
+  {
+    "id": 939,
+    "name": "College 939",
+    "rating": "0.4",
+    "fees": 35890,
+    "userReview": "4.9",
+    "featured": true
+  },
+  {
+    "id": 940,
+    "name": "College 940",
+    "rating": "2.7",
+    "fees": 52632,
+    "userReview": "0.4",
+    "featured": true
+  },
+  {
+    "id": 941,
+    "name": "College 941",
+    "rating": "2.2",
+    "fees": 12814,
+    "userReview": "2.4",
+    "featured": false
+  },
+  {
+    "id": 942,
+    "name": "College 942",
+    "rating": "2.7",
+    "fees": 23061,
+    "userReview": "0.8",
+    "featured": false
+  },
+  {
+    "id": 943,
+    "name": "College 943",
+    "rating": "0.2",
+    "fees": 51078,
+    "userReview": "2.4",
+    "featured": false
+  },
+  {
+    "id": 944,
+    "name": "College 944",
+    "rating": "3.4",
+    "fees": 22320,
+    "userReview": "0.7",
+    "featured": false
+  },
+  {
+    "id": 945,
+    "name": "College 945",
+    "rating": "0.3",
+    "fees": 42198,
+    "userReview": "2.1",
+    "featured": true
+  },
+  {
+    "id": 946,
+    "name": "College 946",
+    "rating": "3.7",
+    "fees": 30562,
+    "userReview": "1.3",
+    "featured": false
+  },
+  {
+    "id": 947,
+    "name": "College 947",
+    "rating": "3.2",
+    "fees": 11741,
+    "userReview": "2.7",
+    "featured": false
+  },
+  {
+    "id": 948,
+    "name": "College 948",
+    "rating": "0.8",
+    "fees": 29370,
+    "userReview": "4.5",
+    "featured": true
+  },
+  {
+    "id": 949,
+    "name": "College 949",
+    "rating": "2.5",
+    "fees": 46213,
+    "userReview": "2.2",
+    "featured": false
+  },
+  {
+    "id": 950,
+    "name": "College 950",
+    "rating": "0.6",
+    "fees": 22054,
+    "userReview": "1.5",
+    "featured": false
+  },
+  {
+    "id": 951,
+    "name": "College 951",
+    "rating": "3.2",
+    "fees": 41783,
+    "userReview": "0.0",
+    "featured": true
+  },
+  {
+    "id": 952,
+    "name": "College 952",
+    "rating": "4.6",
+    "fees": 16877,
+    "userReview": "2.1",
+    "featured": true
+  },
+  {
+    "id": 953,
+    "name": "College 953",
+    "rating": "2.4",
+    "fees": 32057,
+    "userReview": "1.3",
+    "featured": false
+  },
+  {
+    "id": 954,
+    "name": "College 954",
+    "rating": "3.5",
+    "fees": 54664,
+    "userReview": "3.4",
+    "featured": true
+  },
+  {
+    "id": 955,
+    "name": "College 955",
+    "rating": "4.8",
+    "fees": 36611,
+    "userReview": "4.8",
+    "featured": true
+  },
+  {
+    "id": 956,
+    "name": "College 956",
+    "rating": "1.7",
+    "fees": 53015,
+    "userReview": "2.1",
+    "featured": true
+  },
+  {
+    "id": 957,
+    "name": "College 957",
+    "rating": "1.2",
+    "fees": 39783,
+    "userReview": "4.2",
+    "featured": false
+  },
+  {
+    "id": 958,
+    "name": "College 958",
+    "rating": "0.4",
+    "fees": 34173,
+    "userReview": "3.4",
+    "featured": true
+  },
+  {
+    "id": 959,
+    "name": "College 959",
+    "rating": "0.3",
+    "fees": 23557,
+    "userReview": "0.2",
+    "featured": true
+  },
+  {
+    "id": 960,
+    "name": "College 960",
+    "rating": "4.5",
+    "fees": 22458,
+    "userReview": "2.2",
+    "featured": true
+  },
+  {
+    "id": 961,
+    "name": "College 961",
+    "rating": "4.0",
+    "fees": 46556,
+    "userReview": "3.8",
+    "featured": false
+  },
+  {
+    "id": 962,
+    "name": "College 962",
+    "rating": "4.3",
+    "fees": 23656,
+    "userReview": "4.5",
+    "featured": true
+  },
+  {
+    "id": 963,
+    "name": "College 963",
+    "rating": "2.3",
+    "fees": 45400,
+    "userReview": "0.1",
+    "featured": true
+  },
+  {
+    "id": 964,
+    "name": "College 964",
+    "rating": "4.5",
+    "fees": 55131,
+    "userReview": "2.7",
+    "featured": true
+  },
+  {
+    "id": 965,
+    "name": "College 965",
+    "rating": "2.2",
+    "fees": 22165,
+    "userReview": "0.4",
+    "featured": true
+  },
+  {
+    "id": 966,
+    "name": "College 966",
+    "rating": "3.6",
+    "fees": 58909,
+    "userReview": "0.2",
+    "featured": false
+  },
+  {
+    "id": 967,
+    "name": "College 967",
+    "rating": "1.1",
+    "fees": 59048,
+    "userReview": "1.7",
+    "featured": true
+  },
+  {
+    "id": 968,
+    "name": "College 968",
+    "rating": "3.4",
+    "fees": 29767,
+    "userReview": "0.7",
+    "featured": false
+  },
+  {
+    "id": 969,
+    "name": "College 969",
+    "rating": "2.5",
+    "fees": 57364,
+    "userReview": "4.6",
+    "featured": true
+  },
+  {
+    "id": 970,
+    "name": "College 970",
+    "rating": "2.2",
+    "fees": 52427,
+    "userReview": "4.7",
+    "featured": false
+  },
+  {
+    "id": 971,
+    "name": "College 971",
+    "rating": "1.3",
+    "fees": 32385,
+    "userReview": "1.2",
+    "featured": true
+  },
+  {
+    "id": 972,
+    "name": "College 972",
+    "rating": "4.7",
+    "fees": 21293,
+    "userReview": "1.9",
+    "featured": true
+  },
+  {
+    "id": 973,
+    "name": "College 973",
+    "rating": "3.8",
+    "fees": 38858,
+    "userReview": "3.6",
+    "featured": true
+  },
+  {
+    "id": 974,
+    "name": "College 974",
+    "rating": "1.0",
+    "fees": 33731,
+    "userReview": "0.7",
+    "featured": true
+  },
+  {
+    "id": 975,
+    "name": "College 975",
+    "rating": "4.1",
+    "fees": 53619,
+    "userReview": "1.3",
+    "featured": false
+  },
+  {
+    "id": 976,
+    "name": "College 976",
+    "rating": "3.7",
+    "fees": 56933,
+    "userReview": "1.4",
+    "featured": true
+  },
+  {
+    "id": 977,
+    "name": "College 977",
+    "rating": "3.4",
+    "fees": 20963,
+    "userReview": "0.4",
+    "featured": true
+  },
+  {
+    "id": 978,
+    "name": "College 978",
+    "rating": "2.3",
+    "fees": 39402,
+    "userReview": "3.6",
+    "featured": false
+  },
+  {
+    "id": 979,
+    "name": "College 979",
+    "rating": "4.7",
+    "fees": 47855,
+    "userReview": "0.6",
+    "featured": true
+  },
+  {
+    "id": 980,
+    "name": "College 980",
+    "rating": "1.3",
+    "fees": 20228,
+    "userReview": "3.5",
+    "featured": false
+  },
+  {
+    "id": 981,
+    "name": "College 981",
+    "rating": "0.9",
+    "fees": 56451,
+    "userReview": "4.2",
+    "featured": true
+  },
+  {
+    "id": 982,
+    "name": "College 982",
+    "rating": "1.2",
+    "fees": 22336,
+    "userReview": "0.5",
+    "featured": true
+  },
+  {
+    "id": 983,
+    "name": "College 983",
+    "rating": "0.3",
+    "fees": 38284,
+    "userReview": "1.5",
+    "featured": true
+  },
+  {
+    "id": 984,
+    "name": "College 984",
+    "rating": "1.2",
+    "fees": 22360,
+    "userReview": "0.9",
+    "featured": true
+  },
+  {
+    "id": 985,
+    "name": "College 985",
+    "rating": "4.8",
+    "fees": 56540,
+    "userReview": "1.5",
+    "featured": true
+  },
+  {
+    "id": 986,
+    "name": "College 986",
+    "rating": "2.6",
+    "fees": 13969,
+    "userReview": "1.1",
+    "featured": true
+  },
+  {
+    "id": 987,
+    "name": "College 987",
+    "rating": "4.4",
+    "fees": 45791,
+    "userReview": "1.3",
+    "featured": true
+  },
+  {
+    "id": 988,
+    "name": "College 988",
+    "rating": "0.7",
+    "fees": 23077,
+    "userReview": "2.6",
+    "featured": false
+  },
+  {
+    "id": 989,
+    "name": "College 989",
+    "rating": "3.9",
+    "fees": 13771,
+    "userReview": "1.2",
+    "featured": false
+  },
+  {
+    "id": 990,
+    "name": "College 990",
+    "rating": "3.5",
+    "fees": 19485,
+    "userReview": "2.5",
+    "featured": true
+  },
+  {
+    "id": 991,
+    "name": "College 991",
+    "rating": "4.7",
+    "fees": 57783,
+    "userReview": "2.0",
+    "featured": true
+  },
+  {
+    "id": 992,
+    "name": "College 992",
+    "rating": "3.4",
+    "fees": 17340,
+    "userReview": "1.1",
+    "featured": true
+  },
+  {
+    "id": 993,
+    "name": "College 993",
+    "rating": "0.8",
+    "fees": 40149,
+    "userReview": "4.5",
+    "featured": true
+  },
+  {
+    "id": 994,
+    "name": "College 994",
+    "rating": "1.1",
+    "fees": 16723,
+    "userReview": "2.9",
+    "featured": true
+  },
+  {
+    "id": 995,
+    "name": "College 995",
+    "rating": "1.0",
+    "fees": 36223,
+    "userReview": "3.7",
+    "featured": false
+  },
+  {
+    "id": 996,
+    "name": "College 996",
+    "rating": "4.1",
+    "fees": 50604,
+    "userReview": "3.2",
+    "featured": false
+  },
+  {
+    "id": 997,
+    "name": "College 997",
+    "rating": "2.7",
+    "fees": 16424,
+    "userReview": "0.2",
+    "featured": false
+  },
+  {
+    "id": 998,
+    "name": "College 998",
+    "rating": "3.2",
+    "fees": 29397,
+    "userReview": "1.4",
+    "featured": false
+  },
+  {
+    "id": 999,
+    "name": "College 999",
+    "rating": "0.1",
+    "fees": 33662,
+    "userReview": "2.0",
+    "featured": true
+  },
+  {
+    "id": 1000,
+    "name": "College 1000",
+    "rating": "3.2",
+    "fees": 57624,
+    "userReview": "4.2",
+    "featured": true
+  }
+]

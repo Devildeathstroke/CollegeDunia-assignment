@@ -1,0 +1,23 @@
+
+.college-table {
+  color: rgb(15, 16, 16);
+  background-color: aliceblue;
+  overflow: scroll;
+    width: 100%;
+    height: 100%;
+    margin: 0 auto;
+    border-collapse: collapse;
+  }
+  
+  .college-table th,
+  .college-table td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+    cursor: pointer;
+  }
+  
+  .college-table th {
+    background-color: #f2f2f2;
+  }
+  
